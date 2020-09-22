@@ -4,19 +4,4 @@ date = "2020-09-20"
 author = "Sebastián Astroza"
 +++
 
-# Hi there
-
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
-
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+> Esta sección está en construcción. De todas maneras recuerde que tiene hasta el **30 de septiembre de 2020** para `modificar` su inscripción. Escríbame un correo electrónico a sastroza@udec.cl con su solicitud de modificación, su nombre completo y su número de matrícula.
