@@ -36,7 +36,7 @@ El Departamento proporciona una `Carta de Presentación`, si la empresa/organiza
 
 &nbsp;    
 
-# ¿Cuándo debo inscribir la práctica?
+# ¿Cómo inscribo la práctica?
 
 La  `Práctica Pre-profesional` es una asignatura de la carrera con cero créditos que **debe inscribir el semestre posterior a la realización de esta**. Sin embargo, **debe pre-inscribir la práctica dos semanas antes de empezarla**.
 
@@ -73,4 +73,4 @@ Debe hacer dos cosas:
 
 # ¿Cómo se me evaluará?
 
-Un(a) profesor(a) del departamento servirá de `Tutor` y evaluará su práctica. En caso de evaluarla positivamente, se le inscribirá la asignatura como aprobada. **No necesita (ni debe) inscribir usted la asignatura por el sistema web de inscripción de asignaturas.**
+El jefe de carrera (yo) le asignará un(a) profesor(a) del departamento que servirá de `Tutor` y evaluará su práctica. En caso de evaluarla positivamente, se le inscribirá la asignatura como aprobada. **No necesita (ni debe) inscribir usted la asignatura por el sistema web de inscripción de asignaturas.**
