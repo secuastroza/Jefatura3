@@ -15,6 +15,7 @@ author = "Sebastián Astroza"
 - Hacer un `resumen` escrito a mano de la materia.
 - Estudiar el resumen pensando en como se aplica en `forma genérica` la materia, leyendo incluso ejercicios ya resueltos (si es que existen).
 - `Practicar` solucionando problemas (ojalá de certámenes anteriores) sin ver su solución.
+- Preocúpese que el tiempo que le dedica a resolver problemas es tanto (o más) que el tiempo que dedicó a hacer el resumen.
 
 Le dejo además un video que muestra varios tips ([aprobados por científic@s](/science.gif)) para estudiar mejor y aumentar su rendimiento académico.
 
