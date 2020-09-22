@@ -61,8 +61,8 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "La oficina de sastroza"
-      logoHomeLink = "/posts/myfirst/"
+      logoText = "La oficina del Jefe de Carrera"
+      logoHomeLink = "/posts/jc/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
