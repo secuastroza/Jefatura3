@@ -2,7 +2,7 @@
 title = "Bienvenid@ a mi oficina"
 date = "2020-09-20"
 author = "Sebastián Astroza"
-description = "La bienvenida y descripción general del sitio"
+description = ""
 showFullContent = true
 +++
 
