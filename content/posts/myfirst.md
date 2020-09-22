@@ -3,6 +3,7 @@ title = "Bienvenid@ a mi oficina"
 date = "2020-09-20"
 author = "Sebastián Astroza"
 description = ""
+showFullContent = true
 +++
 
 ¡Hola! Mi nombre es **Sebastián Astroza**. Soy el **jefe de carrera** del Departamento de Ingeniería Industrial ([DII](https://dii.udec.cl/)) de la Universidad de Concepción (UdeC).  Le invito a pasar a mi oficina y tomar asiento. 
