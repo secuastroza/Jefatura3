@@ -1,7 +1,7 @@
 +++
 title = "Bienvenid@ a mi oficina"
 date = "2020-09-20"
-author = "Sebastián Astroza Tagle"
+author = "Sebastián Astroza"
 description = ""
 showFullContent = false
 +++
