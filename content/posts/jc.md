@@ -1,6 +1,6 @@
 +++
 title = "Bienvenid@ a mi oficina"
-date = "2020-09-21"
+date = "2020-10-17"
 author = "Sebastián Astroza"
 description = ""
 showFullContent = false
@@ -24,6 +24,12 @@ Si ya está en el punto cúlmine de la carrera y **quiere saberlo todo acerca** 
 
 Si tiene `problemas de conexión` para las clases en línea y necesita una solución, por favor entre a la sección **[conexión](/conexion)**.
 
+Si busca orientación respecto a cuidados de su `salud mental` y a quién contactar en caso de **necesitar ayuda psicológica**, pase a la sección **[salud mental](/salud)**.
+
+Si tiene dudas sobre beneficios y `becas` o qué hacer si tiene `problemas económicos`, visite la sección **[becas](/becas)**.
+
+Si anda en busca de alguna manera de `interactuar con sus compañer@s` de carrera en estos tiempos de comunicación remota, le recomiendo visitar la sección **[sistemas](/sistemas)**.
+
 
 Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, el **[horario](http://secad.ing.udec.cl/indez.php?r=hs)** de las clases, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
 
@@ -31,8 +37,8 @@ Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl
 
 # ¿Lo que busca no está acá?
 
-Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a sastroza@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo udec.
+Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a sastroza@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo UdeC. Si desea tener una `videollamada` (a través de TEAMS) conmigo, escríbale a Alejandra Cohen ( dii_secdoc@udec.cl ) para agendar. Mi `horario de atención de estudiantes` es generalmente los **miércoles de 5:00pm a 6:30pm**.
 
-> Esta página se actualizó por última vez el **21 de septiembre de 2020**. Recuerde estar atent@ a su correo udec y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
+> Esta página se actualizó por última vez el **19 de octubre de 2020**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
 
 

@@ -1,6 +1,6 @@
 +++
 title = "Práctica"
-date = "2020-09-20"
+date = "2020-10-17"
 author = "Sebastián Astroza"
 +++
 
@@ -74,3 +74,9 @@ Debe hacer dos cosas:
 # ¿Cómo se me evaluará?
 
 El jefe de carrera (yo) le asignará un(a) profesor(a) del departamento que servirá de `Tutor` y evaluará su práctica. En caso de evaluarla positivamente, se le inscribirá la asignatura como aprobada. **No necesita (ni debe) inscribir usted la asignatura por el sistema web de inscripción de asignaturas.**
+
+&nbsp; 
+
+# ¿Son las prácticas presenciales o en formato teletrabajo?
+
+Debido a las restricciones de la pandemia que estamos viviendo, las prácticas se están haciendo **completamente en línea**. Aún no se ha definido el protocolo oficial, pero se espera que a partir de Enero 2021 se permita hacer prácticas presenciales o semi-presenciales para casos justificados y con las medidas de precaución necesarias. Apenas sepa actualizaré la información al respecto. 

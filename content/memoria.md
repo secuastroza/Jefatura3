@@ -1,6 +1,6 @@
 +++
 title = "Memoria de Título"
-date = "2020-09-20"
+date = "2020-10-17"
 author = "Sebastián Astroza"
 +++
 
@@ -70,7 +70,7 @@ A mediados del semestre se le enviará esa información a su profesor(a) guía. 
 
 # ¿Cuál es el formato que debe seguir el informe de memoria de título?
 
-Le sugiero seguir las indicaciones de los `Anexos 2 y 3` del [Procedimiento Interno para Memorias de Título](/procedimiento_interno_MT_2020.pdf). Si le quedan dudas acerca del formato, le recomiendo seguir las indicaciones y **preferencias de su profesor(a) guía**.
+Le sugiero seguir las indicaciones de los `Anexos 2 y 3` del [Procedimiento Interno para Memorias de Título](/procedimiento_interno_MT_2020.pdf). **También debe seguir las indicaciones de la biblioteca UdeC**, las que [puede descargar acá](/pauta_udec.pdf). Si le quedan dudas acerca del formato, le recomiendo seguir las indicaciones y **preferencias de su profesor(a) guía**.
 
 &nbsp;    
 
