@@ -1,6 +1,6 @@
 +++
 title = "Bienvenid@ a mi oficina"
-date = "2020-10-17"
+date = "2020-11-23"
 author = "Sebastián Astroza"
 description = ""
 showFullContent = false
@@ -39,6 +39,6 @@ Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl
 
 Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a sastroza@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo UdeC. Si desea tener una `videollamada` (a través de TEAMS) conmigo, escríbale a Alejandra Cohen ( dii_secdoc@udec.cl ) para agendar. Mi `horario de atención de estudiantes` es generalmente los **miércoles de 5:00pm a 6:30pm**.
 
-> Esta página se actualizó por última vez el **19 de octubre de 2020**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
+> Esta página se actualizó por última vez el **23 de Noviembre de 2020**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
 
 
