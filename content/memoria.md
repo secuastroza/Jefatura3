@@ -24,16 +24,13 @@ Debe hacer lo siguiente **antes** que finalice el período de inscripción (**de
 
 Además debe hacer las siguientes dos cosas **a más tardar** el **29 de marzo del 2021**:
 - Escribir la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_de_Memoria_de_Titulo.pdf)), la cual debe ser conversada con y aprobada por su profesor(a) guía.
-- Enviar la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_de_Inscripcion_de_Memoria_de_Titulo.pdf)** a mi correo (sastroza@udec.cl), con copia a la secretaria de docencia (dii_secdoc@udec.cl) y a su profesor(a) guía. **La solicitud debe venir firmada por su profesor(a) guía**. No se preocupe, la firma puede ser digital.
-
-**Sólo en el caso** que su trabajo de memoria requiere visitas a una empresa u organización o cualquier `actividad presencial`, debe además solicitar la autorización del `comité de crisis de la universidad`. Esto debe hacerlo antes **a más tardar el 23 de marzo** y siguiendo las instrucciones que están acá.
-&nbsp;    
+- Enviar la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_de_Inscripcion_de_Memoria_de_Titulo.pdf)** a mi correo (sastroza@udec.cl), con copia a la secretaria de docencia (dii_secdoc@udec.cl) y a su profesor(a) guía. **La solicitud debe venir firmada por su profesor(a) guía**. No se preocupe, la firma puede ser digital.  
 
 &nbsp; 
 
 # ¿Puedo hacer mi memoria de título de manera presencial en una empresa u organización?
 
-Debido a las restricciones de la pandemia que estamos viviendo, las memorias se están haciendo **completamente en línea**. Si usted **necesita** hacer una memoria de título presencial debe solicitarlo al `comité de crisis` de la universidad. El proceso se detalla a continuación.
+Debido a las restricciones de la pandemia que estamos viviendo, las memorias se están haciendo **completamente en línea**. Si usted **necesita** hacer una memoria de título presencial debe solicitarlo al `comité de crisis` de la universidad. Esto debe hacerlo antes **a más tardar el 23 de marzo**. El proceso se detalla a continuación.
 
 &nbsp; 
 
