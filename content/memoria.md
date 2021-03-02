@@ -1,6 +1,6 @@
 +++
 title = "Memoria de Título"
-date = "2020-10-17"
+date = "2021-03-01"
 author = "Sebastián Astroza"
 +++
 
