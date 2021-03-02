@@ -19,14 +19,45 @@ Una vez que tiene definido el tema, está list@ para inscribirlo.
 
 # ¿Cómo inscribo la memoria?
 
-Debe hacer las siguientes tres cosas **antes** que finalice el período de inscripción (**del 7 al 11 de septiembre** para este segundo semestre del 2020):
+Debe hacer lo siguiente **antes** que finalice el período de inscripción (**del 8 al 14 de marzo** para este primer semestre del 2021):
 - [Inscribir](/inscripcion) el curso `580699-1 Memoria de Título`
+
+Además debe hacer las siguientes dos cosas **a más tardar** el **29 de marzo del 2021**:
 - Escribir la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_de_Memoria_de_Titulo.pdf)), la cual debe ser conversada con y aprobada por su profesor(a) guía.
 - Enviar la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_de_Inscripcion_de_Memoria_de_Titulo.pdf)** a mi correo (sastroza@udec.cl), con copia a la secretaria de docencia (dii_secdoc@udec.cl) y a su profesor(a) guía. **La solicitud debe venir firmada por su profesor(a) guía**. No se preocupe, la firma puede ser digital.
 
+**Sólo en el caso** que su trabajo de memoria requiere visitas a una empresa u organización o cualquier `actividad presencial`, debe además solicitar la autorización del `comité de crisis de la universidad`. Esto debe hacerlo antes **a más tardar el 23 de marzo** y siguiendo las instrucciones que están acá.
 &nbsp;    
 
-# ¿Y ahora qué?
+&nbsp; 
+
+# ¿Puedo hacer mi memoria de título de manera presencial en una empresa u organización?
+
+Debido a las restricciones de la pandemia que estamos viviendo, las memorias se están haciendo **completamente en línea**. Si usted **necesita** hacer una memoria de título presencial debe solicitarlo al `comité de crisis` de la universidad. El proceso se detalla a continuación.
+
+&nbsp; 
+
+# ¿Cómo hago llegar mi solicitud de memoria presencial al comité de crisis?
+
+En caso de que **necesite** hacer una memoria presencial y **no pueda posponer** la actividad ni **realizarla de manera en línea**, debe enviarme (con copia a dii_secdoc@udec.cl ) los siguientes documentos **a más tardar el 23 de marzo**:
+
+- **[Formulario de actividad presencial](/Anexo_3-Formulario.xlsx)** (debe incluir razones por las cuales la actividad no puede ser realizada en línea)
+- **[Consentimiento del estudiante](/Consentimiento.docx)**
+- **[Declaración de salud del estudiante](/Declaracion_Salud.docx)**
+- **[Declaración jurada simple de parte de la organización donde realizará la memoria](/Anexo_6-Declaracion_organizacion_externa.docx)**
+- **[Evaluación de riesgos de la actividad](/Anexo_7-Evaluacion_riesgo_practica.xlsx)**
+
+Luego de eso yo llevaré su solicitud al `comité de docencia y asuntos estudiantiles de la carrera`. En caso de ser aceptada, llevaré la solicitud a la `Vicedecana` de la facultad. En caso de aprobarla, ella enviará la solicitud al `comité de crisis` de la universidad. En paralelo, deberá usted realizar una `capacitación en línea` a través de canvas (aproximadamente dos horas de dedicación). Por favor considere que todo el proceso debería tomar al menos 2 semanas. Mayores detalles del proceso los puede encontrar en **[la página web del comité de crisis](http://comitedecrisis.udec.cl/)**
+
+&nbsp; 
+
+# ¿El seguro escolar incluye COVID-19?
+
+No. El seguro escolar es **sólo para accidentes** y, si bien cubre accidentes que pueda tener durante su trabajo de memoria, no cubre enfermedades como COVID-19.
+
+&nbsp; 
+
+# Ya inscribí la memoria, ¿ahora qué?
 
 **¡Se pone a trabajar!** Disfrute el proceso pues desarrollar un tema de investigación, especializado en su área, es uno de los `highlights` de la vida profesional. La clave es dedicarle tiempo y ser constante. 
 
@@ -34,13 +65,13 @@ Debe hacer las siguientes tres cosas **antes** que finalice el período de inscr
 
 # ¿Qué es el informe de avance?
 
-Luego de transcurridas 8 semanas del inicio del período de inscripción debe presentar un informe de avance a su profesor(a) guía. Este segundo semestre del 2020 la `fecha límite para el informe de avance` es el **9 de noviembre**. El formato del informe de avance dependerá de su profesor(a) guía. Algun@s prefieren un documento escrito, otr@s una presentación, quizás ambos, etc. Convérselo con su profesor(a) guía pues es la persona encargada de evaluar su desempeño.
+Luego de transcurridas 8 semanas del inicio del período de inscripción debe presentar un informe de avance a su profesor(a) guía. Este primer semestre del 2021 la `fecha límite para el informe de avance` es el **17 de mayo**. El formato del informe de avance dependerá de su profesor(a) guía. Algun@s prefieren un documento escrito, otr@s una presentación, quizás ambos, etc. Convérselo con su profesor(a) guía pues es la persona encargada de evaluar su desempeño.
 
 &nbsp;    
 
 # ¿Hasta cuando tengo plazo para entregar el informe final?
 
-Tiene hasta el `último día de clases` del semestre **(15 de enero del 2021)** para entregar su informe **completamente terminado** a su profesor(a) guía. Él o ella lo revisará y enviará a la comisión revisora **(MUY IMPORTANTE: con copia a dii_secdoc@udec.cl)**, quienes tendrán 10 días hábiles para revisarla. La comisión revisora (típicamente otro(a) profesor(a) del departamento) es la que decidirá si puede presentar y defender su Memoria de Título.
+Tiene hasta el `último día de clases` del semestre **(30 de julio del 2021)** para entregar su informe **completamente terminado** a su profesor(a) guía. Él o ella lo revisará y enviará a la comisión revisora **(MUY IMPORTANTE: con copia a dii_secdoc@udec.cl)**, quienes tendrán 10 días hábiles para revisarla. La comisión revisora (típicamente otro(a) profesor(a) del departamento) es la que decidirá si puede presentar y defender su Memoria de Título.
 
 &nbsp;    
 
@@ -58,7 +89,7 @@ Se arriesga a que no exista el tiempo para revisar su informe o defender (presen
 
 # ¿En qué consiste la defensa de la memoria de título?
 
-La defensa es una `presentación oral` de **20 minutos** en la que debe sintetizar introducción, desarrollo, resultados y conclusiones de su memoria de título. Para ello obviamente se ayudará de una PPT (slides). Su profesor(a) guía y comisión revisora le harán preguntas relacionadas con su memoria luego de la presentación. **La presentación se debe desarrollar con formalidad y profesionalismo**. Actualmente las defensas se están desarrollando a través de la plataforma TEAMS.  La defensa es pública y puede compartirle el link a quién quiera. Algun@s incluso han optado por transmitirla en vivo por streaming. ¡Es un momento importante! 
+La defensa es una `presentación oral` de **20 minutos** en la que debe sintetizar introducción, desarrollo, resultados y conclusiones de su memoria de título. Para ello obviamente se ayudará de una PPT (slides). Su profesor(a) guía y comisión revisora le harán preguntas relacionadas con su memoria luego de la presentación. **La presentación se debe desarrollar con formalidad y profesionalismo**. Actualmente las defensas se están desarrollando a través de la plataforma TEAMS.  La defensa es pública y puede compartirle el link a quién quiera. ¡Es un momento importante! 
 
 &nbsp;    
 
