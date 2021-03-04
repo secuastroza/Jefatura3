@@ -8,13 +8,13 @@ author = "Sebastián Astroza"
 
 # ¿Qué es esto del nuevo plan de estudios (nueva malla)?
 
-A partir de este año (2021), **quienes entren a la carrera** comenzarán un `nuevo plan de estudios`. Este plan es el resultado de un trabajo de varios años, en el que se buscó reformular la carrera para adecuarla a los nuevos tiempos de la disciplina. Estamos muy contentos del resultado y sabemos que no será la última vez que renovemos la malla pues el mundo cambia y el rol del ingeniero(a) industrial también. Por otro lado, es un proceso de reformulación a nivel de facultad de los primeros años de la carrera, facilitando la interdisciplina. Este nuevo plan es sin duda una excelente noticia para la carrera. 
+A partir de este año (2021), **quienes entren a la carrera** comenzarán un `nuevo plan de estudios`. Este plan es el resultado de un trabajo de varios años, en el que se buscó reformular la carrera para adecuarla a los nuevos tiempos de la disciplina. Estamos muy contentos del resultado y sabemos que no será la última vez que renovemos la malla pues el mundo cambia y el rol del ingeniero(a) industrial también. Por otro lado, es un proceso de reformulación a nivel de facultad de los primeros años de la carrera, facilitando la interdisciplina. Este nuevo plan es sin duda una **excelente noticia** para la carrera. 
 
 &nbsp;    
 
 # ¿Me afecta directamente el nuevo plan de estudios?
 
-**Muy probablemente no**. La implementación del plan será **gradual**, empezando este semestre **sólo para los/las nuevos estudiantes** que empiezan la carrera el 2021. La `generación 2021` es la primera con este nuevo plan e iremos implementando la malla nueva en base a su avance. Además lo haremos con una filosofía de **no person left behind**. Es decir, por más que algún estudiante de una generación anterior se atrase, tendremos posibilidades de convalidar alguna asignatura de la malla nueva en la malla antigua. 
+**Muy probablemente no**. La implementación del plan será **gradual**, empezando este semestre **sólo para los/las nuevos estudiantes** que empiezan la carrera el 2021. La `generación 2021` es la primera con este nuevo plan e iremos implementando la malla nueva en base a su avance. Además lo haremos con una filosofía de **no person left behind**. Es decir, por más que algún estudiante de una generación anterior se atrase, tendremos posibilidades de convalidar alguna asignatura de la malla nueva en la malla antigua. Además, hay un `plan de transición` a implementar en que en algunos semestres se dictarán en parelelo asignaturas en su versión malla nueva y malla antigua.
 
 
 &nbsp; 
@@ -22,7 +22,7 @@ A partir de este año (2021), **quienes entren a la carrera** comenzarán un `nu
 # ¿Qué cambios implica este nuevo plan de estudios en el primer año?
 
 En términos concretos hay dos grandes cambios:
-- Se pasa de una régime trimestral de asignaturas a uno **semestral**.
+- Se pasa de una régimen **trimestral** de asignaturas a uno **semestral**.
 - La asignatura `Liderazgo y Comunicación` se reemplaza por `Desarrollo de Habilidades de Gestión`.
 
 &nbsp; 
@@ -39,17 +39,13 @@ No. Dictaremos en cambio `Desarrollo de Habilidades de Gestión`. Usted podrá t
 
 &nbsp; 
 
-# ¿Puedo cambiarme de la malla antigua a la malla nueva?
-
-Podrá solicitar a secretaría académica el cambio de plan de estudios. Sin embargo, creo que el cambio es conveniente sólo para quienes tengan pocos créditos aprobados. Si usted ya tiene algunas asignaturas avanzadas, pasar por el proceso de convalidación puede ser más engorroso que simplemente continuar con su plan de estudios y además no significar ningún beneficio para usted. Por otro lado, el avance en su plan de estudios está garantizado.
-
-&nbsp; 
-
 # Acabo de entrar este año (2021) a la carrera, puedo hacer el plan antiguo?
 
 [No.](/daenerys.jpg) 
 
 &nbsp; 
 
-# fF
+# ¿Puedo cambiarme de la malla antigua a la malla nueva?
+
+Podrá solicitar a secretaría académica el cambio de plan de estudios. Sin embargo, creo que el cambio es conveniente sólo para quienes tengan pocos créditos aprobados. Si usted ya tiene algunas asignaturas avanzadas, pasar por el proceso de convalidación puede ser más engorroso que simplemente continuar con su plan de estudios y además no significar ningún beneficio para usted. Por otro lado, el avance en su plan de estudios está garantizado.
 
