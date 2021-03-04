@@ -58,7 +58,7 @@ https://web.microsoftstream.com/video/f9d81cc4-8b49-441c-afd5-92aa3df17ed4
 
 &nbsp;
 
-**Sistemas de Producción () / 25 / Eduardo Salazar / [Programa](/sp_programa.pdf)**
+**Sistemas de Producción (546460) / 25 / Eduardo Salazar / [Programa](/sp_programa.pdf)**
 
 El proceso de planificación, programación y control operativo en sistemas productivos. Analice y diseñe soluciones a problemas del control operativo de sistemas de producción.
 
