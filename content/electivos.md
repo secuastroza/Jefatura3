@@ -4,7 +4,7 @@ date = "2021-03-01"
 author = "Sebastián Astroza"
 +++
 
-> En esta sección se presentan los `electivos` para estudiantes de Ingeniería Civil Industrial para el &**primer semestre del 2021**. La información es preliminar y sólo de referencia. Una vez que empiecen las clases los/las profesores compartirán con usted el syllabus oficial de la asignatura. El formato en que se presenta la lista es **Nombre asignatura (código) / cupos / profesor(a) / Link al programa**. Además he puesto un pequeño comentario (mio) y videos que algunos profesores me han hecho llegar.
+> En esta sección se presentan los `electivos` para estudiantes de Ingeniería Civil Industrial para el **primer semestre del 2021**. La información es preliminar y sólo de referencia. Una vez que empiecen las clases los/las profesores compartirán con usted el syllabus oficial de la asignatura. El formato en que se presenta la lista es **Nombre asignatura (código) / cupos / profesor(a) / Link al programa**. Además he puesto un pequeño comentario (mio) y videos que algunos profesores me han hecho llegar.
 
 **Aspectos legales de la empresa (805533) / 50 / Mario Pucheu / [Programa](/Aspectos_Legales.pdf)**
 
