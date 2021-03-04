@@ -80,6 +80,4 @@ Aprendiendo más del corazón de la ingeniería industrial, guiados por una expe
 
 Star Wars: Episode VI. Acá le dejo un video presentando la asignatura:
 
-{{< youtube SXwgkhOL-N8&t >}}
-
-
+{{< youtube SXwgkhOL-N8 >}}
