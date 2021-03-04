@@ -44,13 +44,13 @@ Nuevo electivo que no podría ser más oportuno. Les dejo un video del profesor 
 
 &nbsp;
 
-** Machine Learning for Business Intelligence (580530) / 25 / Rodrigo de la Fuente /  [Programa](/Machine_Learning.pdf) **
+**Machine Learning for Business Intelligence (580530) / 25 / Rodrigo de la Fuente /  [Programa](/Machine_Learning.pdf)**
 
 La asignatura que me hubiera encantando tomar cuando estudiaba, pero lamentablemente no existía. Ahora es un obligado en muchas áreas.
 
 &nbsp;
 
-**Programación Aplicada a la Ingeniería Industrial (580562) / 25 / Carlos Contreras / [Programa](/Programacion_Aplicada.pdf) **
+**Programación Aplicada a la Ingeniería Industrial (580562) / 25 / Carlos Contreras / [Programa](/Programacion_Aplicada.pdf)**
 
 El semestre pasado un estudiante de Modelación de Sistemas me preguntó que era lo más importante de aprender para la vida profesional. Mi respuesta fue "English and Python". El english lo practica viendo Frasier o Seinfeld. Acá practica el python. Les dejo un video del profesor explicando la asignatura:
 
