@@ -24,7 +24,7 @@ Un maestro del área explicando un tópico épico de la ingeniería industrial.
 
 &nbsp;
 
-**Gestión Sustentable (546516) / 24 / Francisco Ruiz / [Programa] (/Gestion_Sustentable.pdf)**
+**Gestión Sustentable (546516) / 24 / Francisco Ruiz / [Programa](/Gestion_Sustentable.pdf)**
 
 Sustentabilidad en la toma de decisiones. Cada día más necesario y urgente.
 
