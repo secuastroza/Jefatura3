@@ -52,6 +52,12 @@ La asignatura que me hubiera encantando tomar cuando estudiaba, pero lamentablem
 
 &nbsp;
 
+**Modelos de Demanda de Transporte (554601) / 10 / Juan Antonio Carrasco / [Programa](/Demanda.pdf)**
+
+Una asignatura que ofrece el Departamento de Ingeniería Civil sobre los modelos matemáticos que sirven para estudiar la generación, atracción y distribución de viajes en una ciudad y su partición modal.
+
+&nbsp;
+
 **Programación Aplicada a la Ingeniería Industrial (580562) / 25 / Carlos Contreras / [Programa](/Programacion_Aplicada.pdf)**
 
 El semestre pasado un estudiante de Modelación de Sistemas me preguntó que era lo más importante de aprender para la vida profesional. Mi respuesta fue "English and Python". El english lo practica viendo Frasier o Seinfeld. Acá practica el python. Les dejo un video del profesor explicando la asignatura:
