@@ -46,7 +46,9 @@ Nuevo electivo que no podría ser más oportuno. Les dejo un video del profesor 
 
 **Machine Learning for Business Intelligence (580530) / 25 / Rodrigo de la Fuente /  [Programa](/Machine_Learning.pdf)**
 
-La asignatura que me hubiera encantando tomar cuando estudiaba, pero lamentablemente no existía. Ahora es un obligado en muchas áreas.
+La asignatura que me hubiera encantando tomar cuando estudiaba, pero lamentablemente no existía. Ahora es un obligado en muchas áreas. Les dejo un video con el profesor:
+
+{{< youtube 9ioffJuik2M >}}
 
 &nbsp;
 
