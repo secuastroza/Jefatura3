@@ -30,7 +30,7 @@ Si tiene dudas sobre beneficios y `becas` o qué hacer si tiene `problemas econ�
 
 Si anda en busca de alguna manera de `interactuar con sus compañer@s` de carrera en estos tiempos de comunicación remota, le recomiendo visitar la sección **[sistemas](/sistemas)**.
 
-Si tiene dudas sobre la implementación del nuevo plan de estudios (para la generación 2021) visite la sección **[Nuevo plan](/nuevamalla)**.
+Si tiene dudas sobre la implementación del `nuevo plan de estudios` (para la generación 2021) visite la sección **[Nuevo plan](/nuevamalla)**.
 
 Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, el **[horario](http://secad.ing.udec.cl/indez.php?r=hs)** de las clases, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
 
