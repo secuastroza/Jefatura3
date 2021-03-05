@@ -47,5 +47,5 @@ No. Dictaremos en cambio `Desarrollo de Habilidades de Gestión`. Usted podrá t
 
 # ¿Puedo cambiarme de la malla antigua a la malla nueva?
 
-Podrá solicitar a secretaría académica el cambio de plan de estudios. Sin embargo, creo que el cambio es conveniente sólo para quienes tengan pocos créditos aprobados. Si usted ya tiene algunas asignaturas avanzadas, pasar por el proceso de convalidación puede ser más engorroso que simplemente continuar con su plan de estudios y además no significar ningún beneficio para usted. Por otro lado, el avance en su plan de estudios está garantizado.
+Podrá solicitar a [secretaría académica](http://secad.ing.udec.cl/faq) el cambio de plan de estudios. Sin embargo, creo que el cambio es conveniente sólo para quienes tengan pocos créditos aprobados. Si usted ya tiene algunas asignaturas avanzadas, pasar por el proceso de convalidación puede ser más engorroso que simplemente continuar con su plan de estudios y además no significar ningún beneficio para usted. Por otro lado, el avance en su plan de estudios está garantizado.
 
