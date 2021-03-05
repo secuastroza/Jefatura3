@@ -101,3 +101,11 @@ paginate = 5
         identifier = "sistemas"
         name = "Sistemas"
         url = "/sistemas"
+        [[languages.en.menu.main]]
+        identifier = "electivos"
+        name = "Electivos"
+        url = "/electivos"
+        [[languages.en.menu.main]]
+        identifier = "nuevamalla"
+        name = "Nuevo plan"
+        url = "/nuevamalla"
