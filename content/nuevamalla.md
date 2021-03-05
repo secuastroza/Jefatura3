@@ -29,11 +29,11 @@ En términos concretos hay dos grandes cambios:
 
 # ¿Se van dictar las asignaturas trimestrales este primer semestre del 2021?
 
-Sí. Si usted no es de la generación 2021 y aún no ha aprobado el primer semestre de la malla antigua, **de todas maneras se dictarán las asignaturas trimestrales** para que pueda avanzar con su malla sin ningún cambio ni inconveniente. #nopersonleftbehind
+Sí. Si usted no es de la generación 2021 y aún no ha aprobado el primer año del plan de estudios, **de todas maneras se dictarán las asignaturas trimestrales** para que pueda avanzar con su malla sin ningún cambio ni inconveniente. #nopersonleftbehind
 
 &nbsp; 
 
-# Tengo aprobado todo el primer semestre de la carrera, excepto Liderazgo y Comunicación ¿Se dictará esa asignatura este primer semestre del 2021?
+# No soy de la generación 2021, pero aún no he aprobado Liderazgo y Comunicación ¿Se dictará esa asignatura este primer semestre del 2021?
 
 No. Dictaremos en cambio `Desarrollo de Habilidades de Gestión`. Usted podrá tomarlo y luego se lo convalidaremos por `Liderazgo y Comunicación` para que pueda seguir avanzando sin problemas en el antiguo plan de estudios. #nopersonleftbehind
 
