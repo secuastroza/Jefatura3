@@ -19,7 +19,7 @@ A partir de este año (2021), **quienes entren a la carrera** comenzarán un `nu
 
 &nbsp; 
 
-# ¿Qué cambios implica este nuevo plan de estudios en el primer año?
+# ¿Qué cambios implica este nuevo plan de estudios en el primer semestre de la carrera?
 
 En términos concretos hay dos grandes cambios:
 - Se pasa de una régimen **trimestral** de asignaturas a uno **semestral**.
