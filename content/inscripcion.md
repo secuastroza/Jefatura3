@@ -32,7 +32,7 @@ La única razón para no enviar su solicitud de inscripción es que no desea ins
 
 &nbsp; 
 
-# ¿Alguna recomendación para escribir en el área de observaciones de la isncripción WEB?
+# ¿Alguna recomendación para escribir en el área de observaciones de la inscripción WEB?
 
 Hágalo de manera clara y precisa:
 - Anote el `CODIGO` y `NOMBRE` de la asignatura que quiere inscribir.
