@@ -99,7 +99,7 @@ Considerando que la oferta de electivos puede ser limitada en relación a la dem
 # ¿Algún otro detalle adicional que debería recordar?
 
 Aprovecho de recordar:
-- **Para quienes desean inscribir el módulo 3 de Inglés no deben hacerlo por el sistema WEB**. Ya se envió un email (ayer) con instrucciones ADICIONALES a las detalladas acá. (Tienen que llenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBUM0tJNTlaSzc5UTM0Q01CUURGSlZKVDVLUC4u))
+- **Para quienes desean inscribir el módulo 3 de Inglés no deben hacerlo por el sistema WEB**. Ya se envió un email (ayer) con instrucciones ADICIONALES a las detalladas acá. (Tienen que llenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBUM0tJNTlaSzc5UTM0Q01CUURGSlZKVDVLUC4u) a partir del lunes 8 a las 10AM)
 - La asignatura de `práctica profesional` **no debe inscribirse en el sistema**. Si aparece en su propuesta, le pido por favor que la elimine. Para inscribir la práctica, usted debe hacerlo por correo conmigo (instrucciones [acá](/practica) ) previo a la realización de la práctica. Una vez que termine, entregue su informe, su supervisor(a) lo evalue y un profesor revise su informe, yo haré una solicitud para aprobarle la práctica en el sistema.
 - Si usted desea iniciar la `Memoria de Título`, sí debe inscribirla por sistema WEB. Más instrucciones ya fueron enviadas a su correo y puede verlas [acá](/memoria).
 - Los jefes de carrera no ven temas relacionados con gratuidad, becas estatales ni préstamos. Consulte directamente a la División de Asistencia a los Estudiantes (DAFE) al correo dafe@udec.cl
