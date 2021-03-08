@@ -35,7 +35,7 @@ La única razón para no enviar su solicitud de inscripción es que no desea ins
 # ¿Alguna recomendación para escribir en el área de observaciones de la inscripción WEB?
 
 Hágalo de manera clara y precisa:
-- Anote el `CODIGO` y `NOMBRE` de la asignatura que quiere inscribir.
+- Anote el `CODIGO` y `NOMBRE` de la asignatura que quiere inscribir. [Acá](/Plan_de_estudios_2014.pdf) puede encontrar los códigos de las asignaturas obligatorias de la carrera. [Acá](/electivos) encuentra los códigos de los electivos.
 - Si hubo problemas en el cierre de alguna de sus asignaturas del 2021-2 indiquenlo escribiendo su correo electrónico (para poder revisar la evidencia del error al que hace mención, correo del profesor u otro). El correo de evidencia debe enviarlo apenas haga su inscripción.
 
 &nbsp; 
