@@ -32,7 +32,7 @@ Si anda en busca de alguna manera de `interactuar con sus compañer@s` de carrer
 
 Si tiene dudas sobre la implementación del `nuevo plan de estudios` (para la generación 2021) visite la sección **[Nuevo plan](/nuevamalla)**.
 
-Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, el **[horario](http://secad.ing.udec.cl/indez.php?r=hs)** de las clases, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
+Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, el **[horario](http://secad.ing.udec.cl/indez.php?r=hs)** de las clases (semestre 2 del 2020), la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera (el plan antiguo, no aplica a la generación 2021) y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
 
 &nbsp;    
 
@@ -40,6 +40,6 @@ Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl
 
 Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a sastroza@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo UdeC. Si desea tener una `videollamada` (a través de TEAMS) conmigo, escríbale a Alejandra Cohen ( dii_secdoc@udec.cl ) para agendar.
 
-> Esta página se actualizó por última vez el **5 de marzo de 2021**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
+> Esta página se actualizó por última vez el **8 de marzo de 2021**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
 
 
