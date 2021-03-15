@@ -67,7 +67,7 @@ La Universidad proveerá un `Seguro Escolar`, para aquellas prácticas realizada
 
 Debe hacer dos cosas:
 - Preocuparse que el/la `Supervisor(a) de Práctica` haga llegar su [Informe de Evaluación](/anexo2_practica.pdf) vía correo electrónico a la Secretaría de Docencia (dii_secdoc@udec.cl) **dentro de cuatro semanas de terminada la actividad**. 
-- Entregar un `Informe de Práctica Pre-profesional` a la Secretaría de Docencia (ddi_secdoc@udec.cl) con copia a mi (sastroza@udec.cl). El documento **no debe superar las 5 páginas** y debe ser entregado  **dentro de las primeras cuatro semanas de iniciado el semestre académico siguiente** a la fecha de la práctica. Adicionalmente, debe incluir el Anexo 3 del **[Reglamento Práctica Pre-profesional](/reglamento_practica.pdf)**.
+- Entregar un `Informe de Práctica Pre-profesional` a la Secretaría de Docencia (dii_secdoc@udec.cl) con copia a mi (sastroza@udec.cl). El documento **no debe superar las 5 páginas** y debe ser entregado  **dentro de las primeras cuatro semanas de iniciado el semestre académico siguiente** a la fecha de la práctica. Adicionalmente, debe incluir el Anexo 3 del **[Reglamento Práctica Pre-profesional](/reglamento_practica.pdf)**.
 
 &nbsp;  
 
