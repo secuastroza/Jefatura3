@@ -12,7 +12,7 @@ showFullContent = false
 
 # ¿Cómo le puedo ayudar?
 
-Si necesita ayuda para `inscribir asignaturas`, la sección **[inscripción](/inscripcion)** podría ser de su interés. La lista de `electivos` del semestre 2021-1 se encuentra en la sección  **[electivos](/electivos)**.
+Si necesita ayuda para `inscribir asignaturas`, la sección **[inscripción](/inscripcion)** podría ser de su interés. La lista de `electivos` del semestre 2021-2 se encuentra en la sección  **[electivos](/electivos)**.
 
 Si por el contrario, está pensando en `eliminar una asignatura`, pase a la sección **[elimina](/elimina)**.
 
@@ -31,6 +31,8 @@ Si tiene dudas sobre beneficios y `becas` o qué hacer si tiene `problemas econ�
 Si anda en busca de alguna manera de `interactuar con sus compañer@s` de carrera en estos tiempos de comunicación remota, le recomiendo visitar la sección **[sistemas](/sistemas)**.
 
 Si tiene dudas sobre la implementación del `nuevo plan de estudios` (para la generación 2021) visite la sección **[Nuevo plan](/nuevamalla)**.
+
+Si desea saber cómo `suspender estudios` (congelar), `renunciar` a la carrera, `revalidar/convalidar` asignaturas, obtener `certificados` de título/grado, debe seguir el **[instructivo de Secretaría Académica de la Facultad](http://secad.ing.udec.cl/faq)**.
 
 Por último, nunca sobra tener a mano el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera si usted entró el 2020 o antes (la generación 2021 tiene [acá su propia sección](/nuevamalla)) y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
 
