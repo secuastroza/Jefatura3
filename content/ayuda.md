@@ -1,6 +1,6 @@
 +++
 title = "Ayuda en el estudio"
-date = "2020-10-17"
+date = "2020-07-11"
 author = "Sebastián Astroza"
 +++
 
@@ -23,15 +23,6 @@ Le dejo además un video que muestra varios tips ([aprobados por científic@s](/
 
 {{< youtube eVlvxHJdql8 >}}
 
-Un grupo de estudiantes de la carrera, liderados por el **[centro de estudiantes](https://linktr.ee/CAAIND_UdeC)**, ha estado organizando `tutorías de estudio` (para que puedan preguntar sus dudas) enfocados en asignaturas de primer y segundo año a través de [Teams (clic acá)](https://teams.microsoft.com/l/channel/19%3ab929485ae69c4b828218f20bd7626886%40thread.tacv2/General?groupId=b3df0a0d-621b-4252-bbc0-13498476b0ee&tenantId=56582b9e-8824-49d0-a665-cd328c0e004a
-)
-
-Los horarios de `TeachIND` para este segundo semestre:
-
-- Lunes: de 17 a 20 hrs
-- Martes: de 19 a 21 hrs
-- Jueves: de 19 a 21 hrs
-- Viernes: de 17 a 20 hrs
 
 Les recomiendo tratar de **hacer grupos para estudiar**. Fue lo que mejor me resultó a mi cuando estaba en los primeros años de ingeniería. Entrar a ese equipo de teams, además de permitirles preguntar a los tutores, puede ser el primer paso para formar grupos de estudio. Otra manera de conectarse entre ustedes es el `Discord` del **Edificio de Sistemas** [(clic acá)](https://www.google.com/url?q=https%3A%2F%2Fdiscord.com%2Finvite%2FfBQJy3h&sa=D)
 

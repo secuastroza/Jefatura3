@@ -1,6 +1,6 @@
 +++
 title = "Práctica"
-date = "2020-11-23"
+date = "2021-07-11"
 author = "Sebastián Astroza"
 +++
 
@@ -93,11 +93,12 @@ En caso de que **necesite** hacer una práctica presencial y **no pueda posponer
 - **[Declaración de salud del estudiante](/Declaracion_Salud.docx)**
 - **[Declaración jurada simple de parte de la organización donde realizará la práctica](/Anexo_6-Declaracion_organizacion_externa.docx)**
 - **[Evaluación de riesgos de la actividad](/Anexo_7-Evaluacion_riesgo_practica.xlsx)**
+- **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas.
 
-Luego de eso yo llevaré su solicitud al `comité de docencia y asuntos estudiantiles de la carrera`. En caso de ser aceptada, llevaré la solicitud a la `Vicedecana` de la facultad. En caso de aprobarla, ella enviará la solicitud al `comité de crisis` de la universidad. En paralelo, deberá usted realizar una `capacitación en línea` a través de canvas (aproximadamente dos horas de dedicación). Por favor considere que todo el proceso debería tomar al menos 3 semanas. Mayores detalles del proceso los puede encontrar en **[la página web del comité de crisis](http://comitedecrisis.udec.cl/)**
+Luego de eso yo llevaré su solicitud al `comité de docencia y asuntos estudiantiles de la carrera`. En caso de ser aceptada, llevaré la solicitud a la `Vicedecana` de la facultad. En caso de aprobarla, ella enviará la solicitud al `comité de crisis` de la universidad. **Por favor considere que todo el proceso debería tomar al menos 2 semanas.** Mayores detalles del proceso los puede encontrar en **[la página web del comité de crisis](http://comitedecrisis.udec.cl/)**
 
 &nbsp; 
 
 # ¿El seguro escolar incluye COVID-19?
 
-No. El seguro escolar es **sólo para accidentes** y, si bien cubre accidentes que pueda tener durante su práctica, no cubre enfermedades como COVID-19.
+Sí. El seguro escolar cubre accidentes que pueda tener durante su trabajo de memoria y además COVID-19. Recuerde que el seguro es para Servicio de Salud público: el seguro escolar no cubre centros privados.
