@@ -21,15 +21,23 @@ Alguna vez me preguntaron eso para una asignatura de introducción a la ingenier
 
 &nbsp; 
 
-# ¿Cómo hago llegar mi solicitud de memoria presencial al comité de crisis?
+# ¿Tengo que inscribir asignaturas todos los semestres?
 
-En caso de que **necesite** hacer una mem
+Sí, se le notifacará por correo las instrucciones cuando llegue el momento. Puede visitar también la sección **[inscripción](/inscripcion)**. Lo importante es que, a no ser que quiera **[suspender estudios](http://secad.ing.udec.cl/faq)**, debe inscribir asignaturas cada semestre. Es cierto que al principio de la carrera no hay asignaturas que elegir, pero de todas maneras debe entrar al sistema a **aceptar su propuesta de inscripción**. 
 
 &nbsp; 
 
+# ¿Qué es infoda?
+
+`Infoda` es la plataforma oficial de la universidad, donde puede ver qué asignaturas está cursando y las notas. Se ingresa en **[alumnos.udec.cl](https://alumnos.udec.cl/)**. 
+
+# ¿Las clases son por infoda?
+
+No, las clases por ahora están siendo en línea a través de la plataforma `Microsoft Teams`.
+
 # ¿Dónde puedo ver los horarios de mis asignaturas?
 
-Para determinar su horario de clases **debe conocer el código de la asignatura y la sección** en que están. Eso lo pueden verificar en `infoda`. A veces en `teams` o `Canvas` hay asignaturas con varias secciones que se "fusionan" en una sola, más que nada para compartir material de manera más fácil o hacer algunas clases en común. Esa fusión recibe el nombre de una sección (la 1 generalmente), a pesar de que tiene estudiantes de varias secciones. **Es por eso que es en infoda donde realmente deben encontrar la sección a la que pertenecen.**
+Para determinar su horario de clases **debe conocer el código de la asignatura y la sección** que le corresponde. Eso lo pueden verificar en `infoda`. A veces en `teams` o `Canvas` hay asignaturas con varias secciones que se "fusionan" en una sola, más que nada para compartir material de manera más fácil o hacer algunas clases en común. Esa fusión recibe el nombre de una sección (la 1 generalmente), a pesar de que tiene estudiantes de varias secciones. **Es por eso que es en infoda donde realmente debe encontrar la sección a la que pertenece.**
 
 - Los horarios de las asignaturas de `nuestra carrera` y de las otras carreras de la `facultad` (Mecánica, Transferencia de Calor, Procesos Industriales, etc.) se encuentran en **[secretaría académica de la facultad](http://secad.ing.udec.cl/)**
 
@@ -42,17 +50,26 @@ Para determinar su horario de clases **debe conocer el código de la asignatura 
 
 # OK, encontré los horarios pero igual no entiendo qué significan.
 
+Es un clásico. A mi también me pasó cuando llegué. La nomeclatura de los días de la semana es trivial:
+
+**LU:** Lunes
+**MA:** Martes
+**MI:** Miércoles
+**JU:** Jueves
+**VI:** Viernes
+**SA:** Sábado
+
 La nomenclatura de los módulos de horas es:
 
-1 = 8:15-09:00
-2 = 09:15-10:00
-3 = 10:15-11:00
+**1** = 8:15-09:00
+**2** = 09:15-10:00
+**3** = 10:15-11:00
 .
 .
 .
-11 = 18:15-19:00
-12 = 19:15 - 20:00
-13 = 20:15 - 21:00 
+**11** = 18:15-19:00
+**12** = 19:15 - 20:00
+**13** = 20:15 - 21:00 
 
 &nbsp;    
 
