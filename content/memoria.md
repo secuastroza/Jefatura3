@@ -23,8 +23,8 @@ Debe hacer lo siguiente **antes** que finalice el período de inscripción (**de
 - [Inscribir](/inscripcion) el curso `580699-1 Memoria de Título`
 
 Además debe hacer las siguientes dos cosas **a más tardar** el **6 de septiembre de 2021**:
-- Escribir la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_de_Memoria_de_Titulo.pdf)), la cual debe ser conversada con y aprobada por su profesor(a) guía.
-- Enviar la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_de_Inscripcion_de_Memoria_de_Titulo.pdf)** a mi correo (sastroza@udec.cl), con copia a la secretaria de docencia (dii_secdoc@udec.cl) y a su profesor(a) guía. **La solicitud debe venir firmada por su profesor(a) guía**. No se preocupe, la firma puede ser digital.  
+- Escribir la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_MT.pdf)), la cual debe ser conversada con y aprobada por su profesor(a) guía.
+- Enviar la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_Inscripcion_MT.pdf)** a mi correo (sastroza@udec.cl), con copia a la secretaria de docencia (dii_secdoc@udec.cl) y a su profesor(a) guía. **La solicitud debe venir firmada por su profesor(a) guía**. No se preocupe, la firma puede ser digital.  
 
 &nbsp; 
 
