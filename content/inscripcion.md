@@ -42,7 +42,7 @@ Sí. En su caso es bastante sencillo pues sólo **debe ingresar a la inscripció
 
 En el caso de que usted hubiera reprobado una asignatura en el primer semestre, deberá repetirla este segundo semestre. Recuerde también que las asignaturas tienen `prerequisitos`. Para tomar Álgebra II, por ejemplo, debe tener aprobada Álgebra I. Para saber los prerequisitos de las asignaturas le recomiendo leer su [plan de estudios](/plan_nuevo.pdf).
 
-Si alguna asignatura debería estar en su propuesta (usted cumple los prerequisitos) y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg).
+Si alguna asignatura debería estar en su propuesta (usted cumple los prerequisitos) y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg). El sistema suele colapsar el primer día, pero usted no tiene para que caer en ese stress pues no tiene apuro. Espere al día siguiente.
 
 &nbsp; 
 
