@@ -145,6 +145,19 @@ Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo i
 
 &nbsp; 
 
+# ¿Cómo saber qué los horarios de las asignaturas que se van a dictar?
+
+Al día de hoy no han salido los horarios del próximo semestre. En el momento en que estén disponibles, usted los podrá encontrar en:
+
+- Los horarios de las asignaturas de `nuestra carrera` y de las otras carreras de la `facultad` (Mecánica, Transferencia de Calor, Procesos Industriales, etc.) se encuentran en **[secretaría académica de la facultad](http://secad.ing.udec.cl/)**
+
+
+- Los horarios asignaturas que imparte la `facultad de Ciencias Fisicas y Matemáticas` (como por ejemplo Calculo I, Algebra I, Física I, etc) se encuentran **[acá](https://www.cfm.cl/docencia/horarios)**. Ojo que hay versiones semestrales y trimestrales, por eso es importante conocer el código.
+
+- Los horarios de las asignaturas que imparte la `facultad de Ciencias Quimicas` se encuentran **[acá](https://fcqudec.cl/horarios-fcq/)**
+
+&nbsp; 
+
 # ¿Cuál es el criterio para seleccionar quienes toman los electivos?
 
 Considerando que la oferta de electivos puede ser limitada en relación a la demanda, **tendrán preferencia aquellas personas que están cursando su último semestre**. La lista de electivos puede verla en [esta sección](/electivos).  
@@ -167,7 +180,7 @@ Yo procesaré todas las inscripciones web en los primeros días (del 20 en adela
 
 # ¿Cómo puedo inscribir el módulo 3 de Inglés?
 
-Si usted acaba de terminar (el semestre 2021-1) el módulo 2 de inglés, puede inscribir sin problemas el módulo 3 (`código 890052`) directamente en la inscripción web. Si usted hizo (o convalidó) el módulo 2 en el pasado, no debe inscribir la asignatura y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBUQ1A3WVZUT0pPOEI1MFNHVEZVWEtPR0tOTC4u) a partir del viernes 20 a las 10AM.  
+Si usted acaba de terminar (el semestre 2021-1) el módulo 2 de inglés, puede inscribir sin problemas el módulo 3 (`código 890052`) directamente en la inscripción web. Si usted hizo (o convalidó) el módulo 2 en el pasado, no debe inscribir la asignatura y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBUQ1A3WVZUT0pPOEI1MFNHVEZVWEtPR0tOTC4u) a partir del viernes 20 a las 10AM. En todo caso, las clases de inglés comienzan recién el lunes 30 de agosto.
 
 &nbsp;
 
