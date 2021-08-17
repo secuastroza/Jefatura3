@@ -145,7 +145,7 @@ Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo i
 
 &nbsp; 
 
-# ¿Cómo saber qué los horarios de las asignaturas que se van a dictar?
+# ¿Cómo saber los horarios de las asignaturas que se van a dictar?
 
 Al día de hoy no han salido los horarios del próximo semestre. En el momento en que estén disponibles, usted los podrá encontrar en:
 
@@ -174,7 +174,7 @@ La idea es que sigamos todos el proceso descrito acá, donde debe seguir estos p
 - Esperar a que yo responda el formulario (puede ir viendolo en la misma dirección del formulario)
 - Si no está de acuerdo, escribir a Alejandra Cohen para agendar una videollamada (dii_secdoc@udec.cl) en teams.
 
-Yo procesaré todas las inscripciones web en los primeros días (del 20 en adelante). Recién el martes 24 miraré el formulario. Y recién el jueves 26 se empezarán a atender personas por videollamada. En ningún momento miraré solicitudes por correo. Les pido por favor sigan este instructivo y no me envien correos con solicitudes de inscripción. El año pasado recibí cientos (a pesar de que les pedí que no lo hicieran), se saturó mi correo y dejé de ver correos muy importantes que no estaban relacionados con la inscripción. 
+Yo procesaré todas las inscripciones web en los primeros días (del 20 en adelante). Recién el martes 24 miraré el formulario. Y recién el jueves 26 se empezarán a atender personas por videollamada. **En ningún momento miraré solicitudes por correo**. [Les pido por favor sigan este instructivo y no me envien correos con solicitudes de inscripción](/dawson.jpg). El año pasado recibí cientos (a pesar de que les pedí que no lo hicieran), se saturó mi correo y dejé de ver correos muy importantes que no estaban relacionados con la inscripción. 
 
 &nbsp;
 
