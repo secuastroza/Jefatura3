@@ -1,6 +1,6 @@
 +++
 title = "Memoria de Título"
-date = "2021-07-11"
+date = "2021-08-16"
 author = "Sebastián Astroza"
 +++
 
@@ -108,6 +108,20 @@ Le sugiero seguir las indicaciones de los `Anexos 2 y 3` del [Procedimiento Inte
 Se le evaluará su informe final, su presentación en la defensa y su desempeño en general en **todo** el proceso. Todos los detalles al respecto, incluidas las `pautas de evaluación`, se encuentran al final del [Procedimiento Interno para Memorias de Título](/procedimiento_interno_MT_2020.pdf). 
 
 &nbsp;    
+
+# ¿Alguna vez han hecho algún evento para explicar todo lo que necesito saber acerca de la memoria de título?
+
+¡Sí! Eso ocurrió el 11 de Agosto de 2021. Si se lo perdió, le dejo el video acá:
+
+{{< youtube yG-e7b7It6E >}}
+
+Y acá el material presentando por los profesores. Ojo que cada profesor(a) tiene su propio estilo y estos son sólo ejemplos. Salvo el **[Procedimiento Interno](/procedimiento_interno_MT_2020.pdf)**, los otros documentos no son oficiales. 
+
+- [Presentación Sebastián Astroza](/PPT_MT.pdf). 
+- [Presentación Marcela Parada](/MVPC_MT.pdf). 
+- [Documento MT Proyecto - José Oliveros](/JAOR_MT_Proyecto.pdf). 
+
+&nbsp;   
 
 # ¿Hay vida después de la memoria?
 
