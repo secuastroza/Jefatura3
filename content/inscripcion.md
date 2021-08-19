@@ -141,7 +141,7 @@ Si usted es estudiante de primer año, remítase por favor la respuesta que doy 
 
 # ¿Cómo saber qué complementarios se van a dictar?
 
-Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo información sobre los complementarios. Son ustedes los encargados/as de conseguir `NOMBRE` y `CÓDIGO`. Lamentablemente no existe una fuente de información en la que se puedan ver todos los complementarios y por eso se le da la responsabilidad al estudiante que los busque. Cada vez que alguna división (o departamento) me envía información yo la comparto inmediatamente a toda la carrera, pero es lo único que me puedo comprometer a hacer.
+Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo información sobre los complementarios. Son ustedes los encargados/as de conseguir `NOMBRE` y `CÓDIGO`. Lamentablemente no existe una fuente de información en la que se puedan ver todos los complementarios y por eso se le da la responsabilidad al estudiante que los busque. Cada vez que alguna división (o departamento) me envía información yo la comparto inmediatamente a toda la carrera, pero es lo único que me puedo comprometer a hacer. Por ejemplo, Dirección de Docencia me envió [este listado](/complementariosDirDoc_2021-2.pdf) para los complementarios que son responsabilidad de ellos.
 
 &nbsp; 
 
