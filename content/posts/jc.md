@@ -34,7 +34,7 @@ Si tiene dudas sobre la implementación del `nuevo plan de estudios` (para la ge
 
 Si desea saber cómo `suspender estudios` (congelar), `renunciar` a la carrera, `revalidar/convalidar` asignaturas, obtener `certificados` de título/grado, debe seguir el **[instructivo de Secretaría Académica de la Facultad](http://secad.ing.udec.cl/faq)**.
 
-Por último, nunca sobra tener a mano el [calendario del semestre](/calendario_semestre_2021-2.jpg), el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera si usted entró el 2020 o antes (la generación 2021 tiene [acá su propia sección](/nuevamalla)) y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
+Por último, nunca sobra tener a mano el **[calendario del semestre 2021-2](/calendario_semestre_2021-2.jpg)**, el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera si usted entró el 2020 o antes (la generación 2021 tiene [acá su propia sección](/nuevamalla)) y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
 
 &nbsp;    
 
