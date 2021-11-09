@@ -1,6 +1,6 @@
 +++
 title = "Práctica"
-date = "2021-07-11"
+date = "2021-11-08"
 author = "Sebastián Astroza"
 +++
 
@@ -38,7 +38,7 @@ El Departamento proporciona una `Carta de Presentación`, si la empresa/organiza
 
 # ¿Cómo inscribo la práctica?
 
-La  `Práctica Pre-profesional` es una asignatura de la carrera con cero créditos que **debe inscribir el semestre posterior a la realización de esta**. Sin embargo, **debe pre-inscribir la práctica dos semanas antes de empezarla**.
+La  `Práctica Pre-profesional` es una asignatura de la carrera con cero créditos que **no debe inscribirse a través del sistema de inscripción web**. Sin embargo, **debe pre-inscribir la práctica dos semanas antes de empezarla**.
 
 &nbsp;    
 
@@ -55,11 +55,6 @@ Básicamente dos requisitos:
 - Las funciones que se le asignen y la independencia técnica en el desarrollo de éstas estén de acuerdo al nivel de avance de la carrera que tenga. 
 - La `duración` de la Práctica debe ser de **al menos cuatro semanas continuas** o el equivalente a **al menos 160 horas continuas**. 
 
-&nbsp;    
-
-# ¿Tendré seguro escolar durante la práctica?
-
-La Universidad proveerá un `Seguro Escolar`, para aquellas prácticas realizadas en Chile, que protegerá al estudiante en caso de un accidente mientras desarrolle la Práctica. El seguro es válido sólo si la atención se realiza en la red de salud pública. **Para tramitar el seguro debe contactar a la Secretaria de Docencia (dii_secdoc@udec.cl) una vez que se adjudique la práctica**.
 
 &nbsp;   
 
@@ -79,26 +74,29 @@ El jefe de carrera (yo) le asignará un(a) profesor(a) del departamento que serv
 
 # ¿Son las prácticas presenciales o en formato teletrabajo?
 
-Debido a las restricciones de la pandemia que estamos viviendo, las prácticas se están haciendo **completamente en línea**. Si usted **necesita** hacer una práctica presencial debe solicitarlo al `comité de crisis` de la universidad. El proceso se detalla a continuación.
+Debido a las restricciones de la pandemia que estamos viviendo, las prácticas se están haciendo en dos modalides: **presencial** y **remota**. Si usted **necesita** hacer una práctica presencial debe solicitarlo al `comité de crisis` de la universidad. El proceso se detalla a continuación.
 
 &nbsp; 
 
 # ¿Cómo hago llegar mi solicitud de práctica presencial al comité de crisis?
 
-En caso de que **necesite** hacer una práctica presencial y **no pueda posponer** la actividad ni **realizarla de manera en línea**, debe enviarme (con copia a dii_secdoc@udec.cl ) los siguientes documentos:
+En caso de que **necesite** hacer una práctica presencial debe enviarme (con copia a dii_secdoc@udec.cl ) los siguientes documentos:
 
 - **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica.pdf)** (el mismo de prácticas en línea)
-- **[Formulario de actividad presencial](/Anexo_3-Formulario.xlsx)** (debe incluir razones por las cuales la actividad no puede ser realizada en línea)
-- **[Consentimiento del estudiante](/Consentimiento.docx)**
-- **[Declaración de salud del estudiante](/Declaracion_Salud.docx)**
-- **[Declaración jurada simple de parte de la organización donde realizará la práctica](/Anexo_6-Declaracion_organizacion_externa.docx)**
-- **[Evaluación de riesgos de la actividad](/Anexo_7-Evaluacion_riesgo_practica.xlsx)**
+- **[Formulario de actividad presencial](/https://comitedecrisis.udec.cl/sites/default/files/Anexo%203%20FORMULARIO%20PREGRADO%20V2%2005-04-2021.xlsx#overlay-context=node/11)** 
 - **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas.
 
 Luego de eso yo llevaré su solicitud al `comité de docencia y asuntos estudiantiles de la carrera`. En caso de ser aceptada, llevaré la solicitud a la `Vicedecana` de la facultad. En caso de aprobarla, ella enviará la solicitud al `comité de crisis` de la universidad. **Por favor considere que todo el proceso debería tomar al menos 2 semanas.** Mayores detalles del proceso los puede encontrar en **[la página web del comité de crisis](http://comitedecrisis.udec.cl/)**
+
+
+&nbsp;    
+
+# ¿Tendré seguro escolar durante la práctica?
+
+Si su práctica es **presencial** la Universidad proveerá un `Seguro Escolar`, para aquellas prácticas realizadas en Chile, que protegerá al estudiante en caso de un accidente mientras desarrolle la Práctica. El seguro es válido sólo si la atención se realiza en la red de salud pública. Si su práctica es **remota** estará protegido por el `Seguro Escolar` que otorga el Ministerio del Trabajo y Previsión Social a todos los estudiantes regulares inscritos en algún establecimiento de Educación, lo que incluye actividad en línea. Si bien no se puede emitir un seguro para quienes realicen práctica en línea, **puede contactar a la Secretaria de Docencia (dii_secdoc@udec.cl) para  que le hagamos llegar una constancia de que se encuentra protegido por ser estudiante regular de la carrera**.
 
 &nbsp; 
 
 # ¿El seguro escolar incluye COVID-19?
 
-Sí. El seguro escolar cubre accidentes que pueda tener durante su trabajo de memoria y además COVID-19. Recuerde que el seguro es para Servicio de Salud público: el seguro escolar no cubre centros privados.
+Sí. En el caso de ser una práctica presencial, el seguro escolar cubre accidentes que pueda tener y además COVID-19. Recuerde que el seguro es para Servicio de Salud público: el seguro escolar no cubre centros privados.
