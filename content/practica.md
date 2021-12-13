@@ -1,6 +1,6 @@
 +++
 title = "Práctica"
-date = "2021-11-08"
+date = "2021-12-12"
 author = "Sebastián Astroza"
 +++
 
@@ -44,7 +44,7 @@ La  `Práctica Pre-profesional` es una asignatura de la carrera con cero crédit
 
 # ¿Cómo pre-inscribo la práctica?
 
-Debe enviar un correo electrónico a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento, adjuntando este **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica.pdf).** La pre-inscripción de práctica deberá ir respaldada por la firma de personal autorizado de la empresa donde desea realizar su práctica. Además deberá indicar los datos del(la) profesional que actuará como `Supervisor(a) de Práctica`. La parte de `Profesor tutor` debe dejarla en blanco (ya se le asignará un@ cuando toque revisar su informe)
+Debe enviar un correo electrónico a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento, adjuntando este **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica.pdf).** La pre-inscripción de práctica deberá ir respaldada por la firma (puede ser digital) de personal autorizado de la empresa donde desea realizar su práctica. Además deberá indicar los datos del(la) profesional que actuará como `Supervisor(a) de Práctica`. La parte de `Profesor tutor` debe dejarla en blanco (ya se le asignará un@ cuando toque revisar su informe)
 
 &nbsp;    
 
@@ -80,14 +80,10 @@ Debido a las restricciones de la pandemia que estamos viviendo, las prácticas s
 
 # ¿Cómo hago llegar mi solicitud de práctica presencial al comité de crisis?
 
-En caso de que **necesite** hacer una práctica presencial debe enviarme (con copia a dii_secdoc@udec.cl ) los siguientes documentos:
+En caso de que **necesite** hacer una práctica presencial debe hacer las siguientes dos cosas:
 
-- **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica.pdf)** (el mismo de prácticas en línea)
-- **[Formulario de actividad presencial](https://comitedecrisis.udec.cl/sites/default/files/Anexo%203%20FORMULARIO%20PREGRADO%20V2%2005-04-2021.xlsx#overlay-context=node/11)** 
-- **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas.
-
-Luego de eso yo llevaré su solicitud al `comité de docencia y asuntos estudiantiles de la carrera`. En caso de ser aceptada, llevaré la solicitud a la `Vicedecana` de la facultad. En caso de aprobarla, ella enviará la solicitud al `comité de crisis` de la universidad. **Por favor considere que todo el proceso debería tomar al menos 2 semanas.** Mayores detalles del proceso los puede encontrar en **[la página web del comité de crisis](http://comitedecrisis.udec.cl/)**
-
+- Enviarme (con copia a dii_secdoc@udec.cl ) el **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica.pdf)** (el mismo de prácticas en línea)
+- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. En ese formulario se le pedirá rellenar información y que suba el **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas.
 
 &nbsp;    
 
