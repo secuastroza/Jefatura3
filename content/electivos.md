@@ -1,18 +1,18 @@
 +++
 title = "Electivos"
-date = "2021-08-15"
+date = "2022-03-01"
 author = "Sebastián Astroza"
 +++
 
-> En esta sección se presentan los `electivos` para estudiantes de Ingeniería Civil Industrial para el **segundo semestre del 2021**. La información es preliminar y sólo de referencia. Una vez que empiecen las clases los/las profesores compartirán con usted el syllabus oficial de la asignatura. El formato en que se presenta la lista es **Nombre asignatura (código) / cupos / profesor(a) / Link al programa**. Además he puesto videos que algunos profesores me han hecho llegar.
-
-&nbsp;
-
-**Análisis de Series de Tiempo Financieras (580549) / 25 / Hernaldo Reinoso / [Programa](/Series_de_tiempo.pdf)**
+> En esta sección se presentan los `electivos` para estudiantes de Ingeniería Civil Industrial para el **primer semestre del 2022**. La información es preliminar y sólo de referencia. Una vez que empiecen las clases los/las profesores compartirán con usted el syllabus oficial de la asignatura. El formato en que se presenta la lista es **Nombre asignatura (código) / cupos / profesor(a) / Link al programa**. Además he puesto videos que algunos profesores me han hecho llegar.
 
 &nbsp;
 
 **Aspectos legales de la empresa (805533) / ?? / Mario Pucheu / [Programa](/Aspectos_Legales.pdf)**
+
+&nbsp;
+
+**Bias, Lies and Causal Inference: Data Interpretation in the Ubiquitous Era (580565) / 25 / Sebastián Astroza /  [Programa](/DataInterpretation.pdf)**
 
 &nbsp;
 
@@ -22,11 +22,15 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Control de la Calidad y Seis Sigma (546512) / 25 / Hernaldo Reinoso / [Programa](/Control_calidad.pdf)**
+**Evaluación Social de Proyectos y Gestión Pública (TBA) / 25 / Josef Cantin / [Programa](/Eval_social.pdf)**
 
 &nbsp;
 
-**Gestión del bienestar y felicidad en el trabajo: Una aproximación desde la ciencia (546497) / 20 / Angela Zenteno / [Programa](/Gestion_Felicidad.pdf)**
+**Evaluación de Riesgos Laborales y Ambientales en la Industria (TBA) / 25 / Lisdelys González  / [Programa](/Riesgos.pdf)**
+
+&nbsp;
+
+**Gestión de la Cadena de Suministro (580542) / 25 / Hernaldo Reinoso / [Programa](/Gestion_Cadena_Suministro.pdf)**
 
 &nbsp;
 
@@ -40,15 +44,15 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Herramientas para la Gestión de Stakeholders en Proyectos complejos (580561) / 20 / José Oliveros / [Programa](/Stakeholders.pdf)**
+**Gestión Sustentable (580564) / 25 / Francisco Ruiz / [Programa](/Gestion_Sustentable.pdf)**
 
 &nbsp;
 
-**Intervención Ergonómica y Diseño para las Ingenierías (258221) / 20 / Fabiola Maureira / [Programa](/Intervencion_Ergonomica.pdf)**
+**Ergonomía para Ingeniería (258221) / ?? / Fabiola Maureira / [Programa](/Ergonomia.pdf)**
 
 &nbsp;
 
-**Marketing Industrial Relacional (580544) / 25 / Andrés Vidal / [Programa](/Marketing_ind_rel.pdf)**
+**Juegos de Estrategia (TBA) / 25 / Inti Núnez / [Programa](/Juegos.pdf)**
 
 &nbsp;
 
@@ -60,14 +64,13 @@ https://web.microsoftstream.com/video/f9d81cc4-8b49-441c-afd5-92aa3df17ed4
 
 &nbsp;
 
+**Sistemas de Producción (546460) / 25 / Eduardo Salazar /  [Programa](/sp_programa.pdf)**
+
+&nbsp;
+
 **Taller de Gestión de Operaciones (580560) / 25 / Eduardo Salazar /  [Programa](/tgop_programa.pdf)**
 
 &nbsp;
 
 **Taller de Optimización (546415) / 25 / Lorena Pradenas /  [Programa](/Taller_optimizacion.pdf)**
 
-&nbsp;
-
-**Understanding Consumer Behavior through Discrete Choice Models (580546) / 25 / Sebastián Astroza /  [Programa](/Understanding.pdf)**
-
-{{< youtube SXwgkhOL-N8 >}}
