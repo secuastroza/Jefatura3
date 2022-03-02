@@ -56,6 +56,10 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
+**Modelos de Demanda de Transporte (554601) / 3 / Juan Antonio Carrasco / [Programa](/Demanda.pdf)**
+
+&nbsp;
+
 **Programación Aplicada a la Ingeniería Industrial (580562) / 25 / Carlos Contreras / [Programa](/Programacion_Aplicada.pdf)**
 
 Les dejo un video del profesor explicando la asignatura:

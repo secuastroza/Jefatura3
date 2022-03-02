@@ -1,16 +1,16 @@
 +++
 title = "Inscripción de Asignaturas"
-date = "2021-08-15"
+date = "2022-03-01"
 author = "Sebastián Astroza"
 +++
 
-> Acá puede encontrar todo lo que necesita saber más recomendaciones para inscribir asignaturas del `segundo semestre del 2021`
+> Acá puede encontrar todo lo que necesita saber más recomendaciones para inscribir asignaturas del `primer semestre del 2022`. 
 
 &nbsp; 
 
 # ¿Cuándo es la inscripción de asignaturas?
 
-El inicio es el **viernes 20 de agosto** a partir de las 10:00 hrs y el término es el domingo 29 de agosto a las 23:59 hrs.
+El inicio es el **lunes 7 de marzo** a partir de las 10:00 hrs y el término es el viernes 11 de marzo a las 23:59 hrs.
 
 &nbsp;
 
@@ -30,19 +30,17 @@ Todos/as tienen que **ENVIAR** su inscripción **WEB** si desea inscribir alguna
 
 &nbsp; 
 
-# Soy estudiante de primer año (entré el 2021), ¿igual tengo que inscribir asignaturas?
+# Soy estudiante de primer año (entré el 2022), ¿igual tengo que inscribir asignaturas?
 
-Sí. En su caso es bastante sencillo pues sólo **debe ingresar a la inscripción web a confirmar su propuesta**. No tiene nada que elegir pues las asignaturas que tiene que inscribir ya están determinadas ([acá](/plan_nuevo.pdf) puede encontrar su plan de estudios) y las secciones se eligen al azar. **No hay posibilidades de cambiarse de sección**, a no ser que tenga un tope de horario con otra asignatura (sin embargo, las secciones están diseñadas de tal manera que no tenga tope de horario). Si no tiene tope de horario, no me escriba solicitando cambio de sección porque lamentablemente no puedo hacerlo. Si usted pasó todas las asignaturas del primer semestre, las asignaturas que deberían aparecer en su propuesta son:
+Sí. En su caso es bastante sencillo pues sólo **debe ingresar a la inscripción web a confirmar su propuesta**. No tiene nada que elegir pues las asignaturas que tiene que inscribir ya están determinadas ([acá](/plan_nuevo.pdf) puede encontrar su plan de estudios) y las secciones se eligen al azar. **No hay posibilidades de cambiarse de sección**, a no ser que tenga un tope de horario con otra asignatura (sin embargo, las secciones están diseñadas de tal manera que no tenga tope de horario). Si no tiene tope de horario, no me escriba solicitando cambio de sección porque lamentablemente no puedo hacerlo. Las asignaturas que deberían aparecer en su propuesta son:
 
-- Física II (510150)
-- Álgebra II (525150)
-- Cálculo II (527150)
-- Química General II (531150)
-- Introducción a la Innovación en Ingeniería (500151)
+- Física I (510140)
+- Álgebra I (525140)
+- Cálculo I (527140)
+- Química General I (531140)
+- Desarrollo de Habilidades de Gestión (580120)
 
-En el caso de que usted hubiera reprobado una asignatura en el primer semestre, deberá repetirla este segundo semestre. Recuerde también que las asignaturas tienen `prerequisitos`. Para tomar Álgebra II, por ejemplo, debe tener aprobada Álgebra I. Para saber los prerequisitos de las asignaturas le recomiendo leer su [plan de estudios](/plan_nuevo.pdf).
-
-Si alguna asignatura debería estar en su propuesta (usted cumple los prerequisitos) y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg). El sistema suele colapsar el primer día, pero usted no tiene para que caer en ese stress pues no tiene apuro. Espere al día siguiente.
+Si alguna asignatura debería estar en su propuesta y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg). El sistema suele colapsar el primer día, pero usted no tiene para que caer en ese stress pues no tiene apuro. Espere al día siguiente para realizar su inscripción.
 
 &nbsp; 
 
@@ -58,12 +56,12 @@ No. Puede que yo modifique su propuesta. Le llegará un correo una vez que yo ha
 
 # Aún así no estoy satisfecho(a), ¿qué podría hacer?
 
-Si ya enviaron su `Inscripción WEB` y tienen **OTRA solicitud o desean una modificación de la inscripción realizada**, deben utilizar el siguiente **[formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBURDFEQzJUQTZUWVlBTjRXOTJRVTQ3UkpHTS4u).** Ojo que si ya hizo su solicitud en la inscripción web no necesita llenar este formulario.
+Si ya enviaron su `Inscripción WEB` y tienen **OTRA solicitud o desean una modificación de la inscripción realizada**, deben utilizar el siguiente **[formulario](https://forms.office.com/r/Yh2ehgy37f).** Ojo que si ya hizo su solicitud en la inscripción web no necesita llenar este formulario.
 
 
-Con este formulario generaré una `fila virtual` y atenderé en orden las solicitudes. La atención de esta lista comenzará cuando se hayan podido procesar la mayoría de las Inscripciones WEB, **probablemente el martes 24 de agosto.** 
+Con este formulario generaré una `fila virtual` y atenderé en orden las solicitudes. La atención de esta lista comenzará cuando se hayan podido procesar la mayoría de las Inscripciones WEB, **probablemente el miércoles 9 de marzo.** 
 
-**Ojo que el formulario está cerrado y se abirá el viernes 20 a las 10AM.**
+**Ojo que el formulario está cerrado y se abirá el lunes 7 a las 10AM.**
 
 &nbsp; 
 
@@ -77,19 +75,19 @@ No. Les pido por favor que usen ese formulario y no el email, para que no se sat
 
 # Ok. Hice la inscripción WEB. Usé su maravilloso formulario. Usted respondió. Aún así no estoy satisfecho(a). ¿Qué hago?
 
-En casos excepcionales que no se puedan resolver vía el formulario habrán reuniones por videollamada en `TEAMS`. **Estas reuniones serán a partir del jueves 26 de agosto**. Sólo se agendarán 6 reuniones diarias. Para agendar la reunión escribir a Alejandra Cohen, secretaria de docencia del departamento, a dii_secdoc@udec.cl.
+En casos excepcionales que no se puedan resolver vía el formulario habrán reuniones por videollamada en `TEAMS`. **Estas reuniones serán a partir del viernes 11 de marzo**. Sólo se agendarán 6 reuniones diarias. Para agendar la reunión escribir a Alejandra Cohen, secretaria de docencia del departamento, a dii_secdoc@udec.cl. Sólo se le agendarán reuniones a quienes hayan hecho los pasos anteriores (inscripción web y formulario)
 
 &nbsp; 
 
 # ¿Qué pasa si no inscribo asignaturas?
 
-La única razón para no enviar su solicitud de inscripción es que no desea inscribir asignatura alguna en el 2021-2. Si ese el caso, cuando se cierre el Proceso de Inscripción de Asignaturas estipulado en el Calendario de Docencia (17 de septiembre), usted quedará registrado como `Baja por No Inscripción`. Luego será informado al Mineduc como `No Vigente`, con lo que **se suspenderán los beneficios de Arancel obtenidos para el primer semestre del presente año**. Adicionalmente, deberá formalizar la suspensión de beneficios ante el Ministerio de Educación, para lo cual debe contactar la División de Asistencia a los Estudiantes al correo dafe@udec.cl.
+La única razón para no enviar su solicitud de inscripción es que no desea inscribir asignatura alguna en el primer semestre del 2022. Si ese el caso, cuando se cierre el Proceso de Inscripción de Asignaturas estipulado en el Calendario de Docencia (8 de abril), usted quedará registrado como `Baja por No Inscripción`. Luego será informado al Mineduc como `No Vigente`, con lo que **se suspenderán los beneficios de Arancel obtenidos para el primer semestre del presente año**. Adicionalmente, deberá formalizar la suspensión de beneficios ante el Ministerio de Educación, para lo cual debe contactar la División de Asistencia a los Estudiantes al correo dafe@udec.cl.
 
 &nbsp; 
 
 # ¿Cómo puedo ser un héroe o heroína este semestre?
 
-**MUY IMPORTANTE:** si no desea inscribir algún electivo o complementario (único tipo de asignaturas con cupo limitado), **POR FAVOR no inscriba asignaturas el día viernes** y espere al día siguiente para inscribir. El `universo` se lo agradecerá y [el `karma` lo recompensará](/kramer.jpg). Esto ayudará a evitar que la plataforma colapse y que sus compañeros y compañeras que realmente necesitan solicitar un curso con cupos puedan hacerlo. #wecanbeheroes
+**MUY IMPORTANTE:** si no desea inscribir algún electivo o complementario (único tipo de asignaturas con cupo limitado), **POR FAVOR no inscriba asignaturas el día lunes** y espere al día siguiente para inscribir. El `universo` se lo agradecerá y [el `karma` lo recompensará](/kramer.jpg). Esto ayudará a evitar que la plataforma colapse y que sus compañeros y compañeras que realmente necesitan solicitar un curso con cupos puedan hacerlo. #wecanbeheroes
 
 &nbsp; 
 
@@ -97,7 +95,7 @@ La única razón para no enviar su solicitud de inscripción es que no desea ins
 
 Hágalo de manera clara y precisa:
 - Anote el `CODIGO` y `NOMBRE` de la asignatura que quiere inscribir. [Acá](/Plan_de_estudios_2014.pdf) puede encontrar los códigos de las asignaturas obligatorias de la carrera. [Acá](/electivos) encuentra los códigos de los electivos.
-- Si hubo problemas en el cierre de alguna de sus asignaturas del 2021-1 indiquenlo escribiendo su correo electrónico (para poder revisar la evidencia del error al que hace mención, correo del profesor u otro). El correo de evidencia debe enviarlo apenas haga su inscripción.
+- Si hubo problemas en el cierre de alguna de sus asignaturas del 2021-2 indiquenlo escribiendo su correo electrónico (para poder revisar la evidencia del error al que hace mención, correo del profesor u otro). El correo de evidencia debe enviarlo apenas haga su inscripción.
 
 &nbsp; 
 
@@ -116,32 +114,32 @@ ANTES de realizar cualquier solicitud respecto de su inscripción fuera de la WE
 
 # ¿Hasta cuando puedo solicitar modificar mi inscripción?
 
-Tenga paciencia. Podrá solicitar modificar su inscripción al menos hasta el 3 de septiembre. 
+Tenga paciencia. Podrá solicitar modificar su inscripción al menos hasta el 16 de marzo. 
 
 &nbsp; 
 
 # ¿Qué pasa si empiezan las clases y yo aún no he solucionado los problemas con mi inscripción? 
 
-Las clases empiezan el 23 de Agosto, pero tanto los y las estudiantes que hayan inscrito asignaturas, como quienes estén autorizados para inscribir y que tengan asignaturas propuestas, estarán habilitados/as para ingresar en las plataformas `Canvas` y `Teams`.
+Las clases empiezan el 14 de marzo, pero tanto los y las estudiantes que hayan inscrito asignaturas, como quienes estén autorizados para inscribir y que tengan asignaturas propuestas, estarán habilitados/as para ingresar en las plataformas `Canvas` y `Teams`.
 
 
 &nbsp; 
 
 # ¿Cuántos créditos puedo tomar?
 
-Puede tomar un **máximo de 22 créditos**. Se recomienda tomar entre 18 y 20. 
+Puede tomar un **máximo de 22 créditos**.
 
 &nbsp; 
 
 # ¿Cómo saber qué asignaturas se van a dictar?
 
-Si usted es estudiante de primer año, remítase por favor la respuesta que doy más arriba respecto a *"Soy estudiante de primer año (entré el 2021), ¿igual tengo que inscribir asignaturas?"*. Si usted es estudiante de segundo año en adelante, mire [acá el plan de estudios](/plan_antiguo.pdf). Este segundo semestre se dictan todas las asignaturas que por malla están en un semestre par (semestres 2, 4, 6, 8 y 10). Además se dictan `electivos` (sólo para estudiantes de 9no semeste en adelante), que los puede ver en [esta lista](/electivos)), y `complementarios`.
+Si usted es estudiante de primer año, remítase por favor la respuesta que doy más arriba respecto a *"Soy estudiante de primer año (entré el 2022), ¿igual tengo que inscribir asignaturas?"*. Si usted es estudiante de segundo año en adelante, mire [acá el plan de estudios](/plan_antiguo.pdf). Este segundo semestre se dictan todas las asignaturas que por malla están en un semestre impar (semestres 1, 3, 5, 7 y 9). Además se dictan `electivos` (sólo para estudiantes de 9no semeste en adelante), que los puede ver en [esta lista](/electivos)), y `complementarios`.
 
 &nbsp; 
 
 # ¿Cómo saber qué complementarios se van a dictar?
 
-Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo información sobre los complementarios. Son ustedes los encargados/as de conseguir `NOMBRE` y `CÓDIGO`. Lamentablemente no existe una fuente de información en la que se puedan ver todos los complementarios y por eso se le da la responsabilidad al estudiante que los busque. Cada vez que alguna división (o departamento) me envía información yo la comparto inmediatamente a toda la carrera, pero es lo único que me puedo comprometer a hacer. Por ejemplo, Dirección de Docencia me envió [este listado](/complementariosDirDoc_2021-2.pdf) para los complementarios que son responsabilidad de ellos.
+Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo información sobre los complementarios. Son ustedes los encargados/as de conseguir `NOMBRE` y `CÓDIGO`. Lamentablemente no existe una fuente de información en la que se puedan ver todos los complementarios y por eso se le da la responsabilidad al estudiante que los busque. Cada vez que alguna división (o departamento) me envía información yo la comparto inmediatamente a toda la carrera, pero es lo único que me puedo comprometer a hacer. 
 
 &nbsp; 
 
@@ -170,11 +168,11 @@ La idea es que sigamos todos el proceso descrito acá, donde debe seguir estos p
 
 - Enviar su inscripción web (con observaciones si quiere)
 - Esperar a que yo la procese y el sistema le notifique por correo que la ratifiqué.
-- Si no está de acuerdo, llenar **[formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBURDFEQzJUQTZUWVlBTjRXOTJRVTQ3UkpHTS4u)**.
+- Si no está de acuerdo, llenar **[formulario](https://forms.office.com/r/Yh2ehgy37f)**.
 - Esperar a que yo responda el formulario (puede ir viendolo en la misma dirección del formulario)
 - Si no está de acuerdo, escribir a Alejandra Cohen para agendar una videollamada (dii_secdoc@udec.cl) en teams.
 
-Yo procesaré todas las inscripciones web en los primeros días (del 20 en adelante). Recién el martes 24 miraré el formulario. Y recién el jueves 26 se empezarán a atender personas por videollamada. **En ningún momento miraré solicitudes por correo**. [Les pido por favor sigan este instructivo y no me envien correos con solicitudes de inscripción](/dawson.jpg). El año pasado recibí cientos (a pesar de que les pedí que no lo hicieran), se saturó mi correo y dejé de ver correos muy importantes que no estaban relacionados con la inscripción. 
+Yo procesaré todas las inscripciones web en los primeros días (del 7 en adelante). Recién el miércoles 9 miraré el formulario. Y recién el viernes 11 se empezarán a atender personas por videollamada. **En ningún momento miraré solicitudes por correo**. [Les pido por favor sigan este instructivo y no me envien correos con solicitudes de inscripción](/dawson.jpg). El año pasado recibí cientos (a pesar de que les pedí que no lo hicieran), se saturó mi correo y dejé de ver correos muy importantes que no estaban relacionados con la inscripción. 
 
 &nbsp;
 
@@ -190,4 +188,5 @@ Aprovecho de recordar:
 - Si usted desea iniciar la `Memoria de Título`, sí debe inscribirla por sistema WEB. Más instrucciones ya fueron enviadas a su correo y puede verlas [acá](/memoria).
 - Los jefes de carrera no ven temas relacionados con gratuidad, becas estatales ni préstamos. Consulte directamente a la División de Asistencia a los Estudiantes (DAFE) al correo dafe@udec.cl
 - Tampoco vemos temas relacionados con becas propias UdeC, ni beneficios Junaeb. Consulte directamente a la Dirección de Servicios Estudiantiles (DISE) al correo dise@udec.cl.
+- Por favor no inscriba la práctica en la inscripción web.
 
