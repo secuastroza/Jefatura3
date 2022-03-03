@@ -133,7 +133,7 @@ Puede tomar un **máximo de 22 créditos**.
 
 # ¿Cómo saber qué asignaturas se van a dictar?
 
-Si usted es estudiante de primer año, remítase por favor la respuesta que doy más arriba respecto a *"Soy estudiante de primer año (entré el 2022), ¿igual tengo que inscribir asignaturas?"*. Si usted es estudiante de segundo año en adelante, mire [acá el plan de estudios](/plan_antiguo.pdf). Este segundo semestre se dictan todas las asignaturas que por malla están en un semestre impar (semestres 1, 3, 5, 7 y 9). Además se dictan `electivos` (sólo para estudiantes de 9no semeste en adelante), que los puede ver en [esta lista](/electivos)), y `complementarios`.
+Si usted es estudiante de primer año, remítase por favor la respuesta que doy más arriba respecto a *"Soy estudiante de primer año (entré el 2022), ¿igual tengo que inscribir asignaturas?"*. Si usted es estudiente de segundo año (generación 2021), mire [acá el plan de estudios](/plan_nuevo.pdf). Si usted es estudiante de tercer año en adelante, mire [acá el plan de estudios](/plan_antiguo.pdf). Este segundo semestre se dictan todas las asignaturas que por malla están en un semestre impar (semestres 1, 3, 5, 7 y 9). Además se dictan `electivos` (sólo para estudiantes de 9no semeste en adelante), que los puede ver en [esta lista](/electivos)), y `complementarios`.
 
 &nbsp; 
 
@@ -178,7 +178,7 @@ Yo procesaré todas las inscripciones web en los primeros días (del 7 en adelan
 
 # ¿Cómo puedo inscribir el módulo 3 de Inglés?
 
-Si usted acaba de terminar (el semestre 2021-1) el módulo 2 de inglés, puede inscribir sin problemas el módulo 3 (`código 890052`) directamente en la inscripción web. Si usted hizo (o convalidó) el módulo 2 en el pasado, no debe inscribir la asignatura y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASrwuERIdBiJMuxriWMXu5eBUQ1A3WVZUT0pPOEI1MFNHVEZVWEtPR0tOTC4u) a partir del viernes 20 a las 10AM. En todo caso, las clases de inglés comienzan recién el lunes 30 de agosto.
+No debe inscribir la asignatura en la inscripción web y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/r/fhGfgnx93C) a partir del lunes 7 a las 10AM.
 
 &nbsp;
 
