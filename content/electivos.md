@@ -44,11 +44,11 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Gestión Sustentable (580564) / 25 / Francisco Ruiz / [Programa](/Gestion_Sustentable.pdf)**
+**Gestión Sustentable (546516) / 25 / Francisco Ruiz / [Programa](/Gestion_Sustentable.pdf)**
 
 &nbsp;
 
-**Ergonomía para Ingeniería (258221) / ?? / Fabiola Maureira / [Programa](/Ergonomia.pdf)**
+**Ergonomía para Ingeniería (254507) / ?? / Fabiola Maureira / [Programa](/Ergonomia.pdf)**
 
 &nbsp;
 
