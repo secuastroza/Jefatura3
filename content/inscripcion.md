@@ -178,7 +178,7 @@ Yo procesaré todas las inscripciones web en los primeros días (del 7 en adelan
 
 # ¿Cómo puedo inscribir el módulo 3 de Inglés?
 
-No debe inscribir la asignatura en la inscripción web y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/r/fhGfgnx93C) a partir del lunes 7 a las 10AM.
+Quienes rindan este semestre (marzo 2022) el diagnóstico y se eximan de inglés 1 y 2, pueden tomar el 3 directamente este semestre sin necesidad de que se preinscriban. El código es `890052`. El resto de las personas que deseen cursar la asignatura, no deben inscribirla en la inscripción web y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/r/fhGfgnx93C) a partir del lunes 7 a las 10AM.
 
 &nbsp;
 
