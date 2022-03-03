@@ -12,7 +12,7 @@ showFullContent = false
 
 # ¿Cómo le puedo ayudar?
 
-Si necesita ayuda para `inscribir asignaturas`, la sección **[inscripción](/inscripcion)** podría ser de su interés. La lista de `electivos` del semestre 2021-2 se encuentra en la sección  **[electivos](/electivos)**.
+Si necesita ayuda para `inscribir asignaturas`, la sección **[inscripción](/inscripcion)** podría ser de su interés. La lista de `electivos` del semestre 2022-1 se encuentra en la sección  **[electivos](/electivos)**.
 
 Si por el contrario, está pensando en `eliminar una asignatura`, pase a la sección **[elimina](/elimina)**.
 
