@@ -22,11 +22,11 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Evaluación Social de Proyectos y Gestión Pública (TBA) / 25 / Josef Cantin / [Programa](/Eval_social.pdf)**
+**Evaluación Social de Proyectos y Gestión Pública (580601) / 25 / Josef Cantin / [Programa](/Eval_social.pdf)**
 
 &nbsp;
 
-**Evaluación de Riesgos Laborales y Ambientales en la Industria (TBA) / 25 / Lisdelys González  / [Programa](/Riesgos.pdf)**
+**Evaluación de Riesgos Laborales y Ambientales en la Industria (580602) / 25 / Lisdelys González  / [Programa](/Riesgos.pdf)**
 
 &nbsp;
 
@@ -52,7 +52,7 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Juegos de Estrategia (TBA) / 25 / Inti Núnez / [Programa](/Juegos.pdf)**
+**Juegos de Estrategia (580600) / 25 / Inti Núnez / [Programa](/Juegos.pdf)**
 
 &nbsp;
 
