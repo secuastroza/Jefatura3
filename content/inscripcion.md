@@ -1,6 +1,6 @@
 +++
 title = "Inscripción de Asignaturas"
-date = "2022-03-01"
+date = "2022-03-05"
 author = "Sebastián Astroza"
 +++
 
@@ -145,14 +145,26 @@ Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo i
 
 # ¿Cómo saber los horarios de las asignaturas que se van a dictar?
 
-Al día de hoy no han salido los horarios del próximo semestre. En el momento en que estén disponibles, usted los podrá encontrar en:
+En el momento en que estén disponibles, usted los podrá encontrar en:
 
 - Los horarios de las asignaturas de `nuestra carrera` y de las otras carreras de la `facultad` (Mecánica, Transferencia de Calor, Procesos Industriales, etc.) se encuentran en **[secretaría académica de la facultad](http://secad.ing.udec.cl/)**
 
 
 - Los horarios asignaturas que imparte la `facultad de Ciencias Fisicas y Matemáticas` (como por ejemplo Calculo I, Algebra I, Física I, etc) se encuentran **[acá](https://www.cfm.cl/docencia/horarios)**. Ojo que hay versiones semestrales y trimestrales, por eso es importante conocer el código.
 
-- Los horarios de las asignaturas que imparte la `facultad de Ciencias Quimicas` se encuentran **[acá](https://fcqudec.cl/horarios-fcq/)**
+- Los horarios de las asignaturas que imparte la `facultad de Ciencias Quimicas` se encuentran **[acá](https://fcqudec.cl/horarios-fcq/)**.
+
+La nomenclatura de los módulos de horas es:
+
+1 = 8:15-09:00
+2 = 09:15-10:00
+3 = 10:15-11:00
+.
+.
+.
+11 = 18:15-19:00
+12 = 19:15 - 20:00
+13 = 20:15 - 21:00 
 
 &nbsp; 
 
