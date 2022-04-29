@@ -14,8 +14,6 @@ showFullContent = false
 
 Si necesita ayuda para `inscribir asignaturas`, la sección **[inscripción](/inscripcion)** podría ser de su interés. La lista de `electivos` del semestre 2022-1 se encuentra en la sección  **[electivos](/electivos)**.
 
-Si por el contrario, está pensando en `eliminar una asignatura`, pase a la sección **[elimina](/elimina)**.
-
 Si no le está yendo bien en las clases y siente que necesita cambiar su `estrategia de estudio`, le invito a pasar a la sección **[ayuda](/ayuda)**.
 
 Si está pensando en `hacer una práctica` y tiene alguna duda, le invito a la sección **[práctica](/practica)**. Ahí podrá responder preguntas fundamentales como *¿Qué es una práctica?* *¿Cómo busco una práctica?* *¿Cómo inscribo la práctica?* *¿Cómo apruebo la práctica?* y, muy importante, **¡¿Debería estar haciendo una práctica?!**
