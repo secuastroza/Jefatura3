@@ -20,13 +20,11 @@ Si está pensando en `hacer una práctica` y tiene alguna duda, le invito a la s
 
 Si ya está en el punto cúlmine de la carrera y **quiere saberlo todo acerca** de la `memoria de título`, pase con todo el power a la sección **[memoria](/memoria)**.
 
-Si tiene `problemas de conexión` para las clases en línea y necesita una solución, por favor entre a la sección **[conexión](/conexion)**.
 
 Si busca orientación respecto a cuidados de su `salud mental` y a quién contactar en caso de **necesitar ayuda psicológica**, pase a la sección **[salud mental](/salud)**.
 
 Si tiene dudas sobre beneficios y `becas` o qué hacer si tiene `problemas económicos`, visite la sección **[becas](/becas)**.
 
-Si anda en busca de alguna manera de `interactuar con sus compañer@s` de carrera en estos tiempos de comunicación remota, le recomiendo visitar la sección **[sistemas](/sistemas)**.
 
 Si tiene dudas sobre la implementación del `nuevo plan de estudios` (para la generación 2021) visite la sección **[Nuevo plan](/nuevamalla)**.
 
