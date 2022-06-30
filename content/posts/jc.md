@@ -1,6 +1,6 @@
 +++
 title = "Bienvenid@ a mi oficina"
-date = "2022-01-13"
+date = "2022-06-29"
 author = "Sebastián Astroza"
 description = ""
 showFullContent = false
@@ -13,6 +13,8 @@ showFullContent = false
 # ¿Cómo le puedo ayudar?
 
 Si necesita ayuda para `inscribir asignaturas`, la sección **[inscripción](/inscripcion)** podría ser de su interés. La lista de `electivos` del semestre 2022-1 se encuentra en la sección  **[electivos](/electivos)**.
+
+Si desea eliminar una asignatura, pase a la sección **[elimina](/elimina)**.
 
 Si no le está yendo bien en las clases y siente que necesita cambiar su `estrategia de estudio`, le invito a pasar a la sección **[ayuda](/ayuda)**.
 
@@ -38,6 +40,6 @@ Por último, nunca sobra tener a mano el **[calendario del semestre 2021-2](/cal
 
 Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a sastroza@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo UdeC. Si desea tener una `videollamada` (a través de TEAMS) conmigo, escríbale a Alejandra Cohen ( dii_secdoc@udec.cl ) para agendar.
 
-> Esta página se actualizó por última vez el **5 de marzo de 2022**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
+> Esta página se actualizó por última vez el **29 de junio de 2022**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
 
 
