@@ -1,7 +1,9 @@
 +++
 title = "Eliminar (abandonar) una asignatura"
-date = "2021-07-11"
+date = "2022-06-29"
 author = "Sebastián Astroza"
 +++
 
-> Debido a la situación que estamos viviendo, tiene hasta que se cierre el acta final para `eliminar` (o abandonar) una asignatura. El proceso **debe hacerlo usted mismo** en INFODA, siguiendo el mismo procedimiento del semestre pasado: INFODA > Información Curricular > Asignaturas Inscritas.
+> `RECORDATORIO`: La desinscripción ( eliminación) de una asignatura y el consiguiente menor número de créditos aprobados puede ser conducente a causal de **pérdida de carrera (baja académica)** en casos descritos en el reglamento de docencia (revise el de la [universidad](http://docencia.udec.cl/wp-content/uploads/2018/05/documento-reglamento.pdf) y el de la [facultad](http://secad.ing.udec.cl/indez.php?r=rfi)), además de tener efectos sobre becas u otros. 
+
+la única manera para desinscribir asignaturas es a través de **[este formulario](https://forms.office.com/r/zCw6x47a9U)**. Este formulario es exclusivo para estudiantes de ingeniería civil industrial y **se cerrará el día 15 de julio a las 6:00pm**. Debe responder el formulario tantas veces como el número de asignaturas que desee eliminar. Una vez solicitada la eliminación de la asignatura en este formulario, **no hay vuelta atrás ni posibilidad de revertir la decisión**. No se aceptarán solicitudes de desinscripción de asignaturas por correo o mensajes de teams. No se aceptarán solicitudes de desinscripción de asignaturas posteriores al 15 de julio a las 6:00pm.
