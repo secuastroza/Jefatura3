@@ -1,6 +1,6 @@
 +++
 title = "Memoria de Título"
-date = "2022-01-13"
+date = "2022-07-12"
 author = "Sebastián Astroza"
 +++
 
@@ -19,29 +19,14 @@ Una vez que tiene definido el tema, está list@ para inscribirlo.
 
 # ¿Cómo inscribo la memoria?
 
-Debe hacer lo siguiente **antes** que finalice el período de inscripción (**del 7 al 11 de marzo** para este primer semestre del 2022):
+Debe hacer lo siguiente **antes** que finalice el período de inscripción (**del 8 al 12 de agosto** para este segundo semestre del 2022):
 - [Inscribir](/inscripcion) el curso `580699-1 Memoria de Título`
 
-Además debe hacer las siguientes dos cosas **a más tardar** el **25 de marzo de 2022**:
+Además debe hacer las siguientes dos cosas **a más tardar** el **22 de agosto de 2022**:
 - Escribir la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_MT.pdf)), la cual debe ser conversada con y aprobada por su profesor(a) guía.
 - Enviar la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_Inscripcion_MT.pdf)** a mi correo (sastroza@udec.cl), con copia a la secretaria de docencia (dii_secdoc@udec.cl) y a su profesor(a) guía. **La solicitud debe venir firmada por su profesor(a) guía**. No se preocupe, la firma puede ser digital.  
 
 &nbsp; 
-
-# ¿Puedo hacer mi memoria de título de manera presencial en una empresa u organización?
-
-Si usted **necesita** hacer una memoria de título presencial debe solicitarlo al `comité de crisis` de la universidad. Esto debe hacerlo antes **a más tardar el 25 de marzo**. El proceso se detalla a continuación.
-
-&nbsp; 
-
-# ¿Cómo hago llegar mi solicitud de memoria presencial al comité de crisis?
-
-En caso de que **necesite** hacer una memoria presencial en una empresa debe hacer las siguientes dos cosas:
-
-- Enviarme (con copia a dii_secdoc@udec.cl ) la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_Inscripcion_MT.pdf)** y  la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_MT.pdf)).
-- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. En ese formulario se le pedirá rellenar información y que suba el **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas.
-
-&nbsp;  
 
 # ¿Tendré seguro escolar durante la memoria?
 
@@ -49,11 +34,14 @@ Si su memoria es **presencial** la Universidad proveerá un `Seguro Escolar`, pa
 
 &nbsp; 
 
-# ¿El seguro escolar incluye COVID-19?
+# ¿Cómo obtengo mi seguro escolar para mi memoria presencial?
 
-Sí. En el caso de ser una actividad presencial, el seguro escolar cubre accidentes que pueda tener y además COVID-19. Recuerde que el seguro es para Servicio de Salud público: el seguro escolar no cubre centros privados.
+Debe hacer las siguientes dos cosas antes del **22 de agosto de 2022**:
 
-&nbsp; 
+- Enviarme (con copia a dii_secdoc@udec.cl ) la **[Solicitud de Inscripción de Tema de Memoria de Título](/Solicitud_Inscripcion_MT.pdf)** firmada por profesor/a guía y  la **Propuesta de Memoria de Título** (con las [siguientes secciones](/Propuesta_MT.pdf)). Si necesita el seguro con urgencia y no tiene aún estos dos documentos, puede en cambio enviarme un correo (con copia a dii_secdoc@udec.cl) comprometiéndose a enviar los documentos a más tardar el **22 de agosto de 2022**.
+- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. En ese formulario se le pedirá rellenar información y que suba el **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas.
+
+&nbsp;  
 
 # Ya inscribí la memoria, ¿ahora qué?
 
@@ -63,13 +51,13 @@ Sí. En el caso de ser una actividad presencial, el seguro escolar cubre acciden
 
 # ¿Qué es el informe de avance?
 
-Luego de transcurridas 8 semanas del inicio del período de inscripción debe presentar un informe de avance a su profesor(a) guía. Este primer semestre del 2022 la `fecha límite para el informe de avance` es el **6 de mayo**. El formato del informe de avance dependerá de su profesor(a) guía. Algun@s prefieren un documento escrito, otr@s una presentación, quizás ambos, etc. Convérselo con su profesor(a) guía pues es la persona encargada de evaluar su desempeño.
+Luego de transcurridas 8 semanas del inicio del período de inscripción debe presentar un informe de avance a su profesor(a) guía. Este segundo semestre del 2022 la `fecha límite para el informe de avance` es el **3 de octubre**. El formato del informe de avance dependerá de su profesor(a) guía. Algun@s prefieren un documento escrito, otr@s una presentación, quizás ambos, etc. Convérselo con su profesor(a) guía pues es la persona encargada de evaluar su desempeño.
 
 &nbsp;    
 
 # ¿Hasta cuando tengo plazo para entregar el informe final?
 
-Tiene hasta el `último día de clases` del semestre **(8 de julio de 2022)** para entregar su informe **completamente terminado** a su profesor(a) guía. Él o ella lo revisará y enviará a la comisión revisora **(MUY IMPORTANTE: con copia a dii_secdoc@udec.cl)**, quienes tendrán 10 días hábiles para revisarla. La comisión revisora (típicamente otro(a) profesor(a) del departamento) es la que decidirá si puede presentar y defender su Memoria de Título.
+Tiene hasta el `último día de clases` del semestre **(7 de diciembre de 2022)** para entregar su informe **completamente terminado** a su profesor(a) guía. Él o ella lo revisará y enviará a la comisión revisora **(MUY IMPORTANTE: con copia a dii_secdoc@udec.cl)**, quienes tendrán 10 días hábiles para revisarla. La comisión revisora (típicamente otro(a) profesor(a) del departamento) es la que decidirá si puede presentar y defender su Memoria de Título.
 
 &nbsp;    
 
@@ -87,7 +75,7 @@ Se arriesga a que no exista el tiempo para revisar su informe o defender (presen
 
 # ¿En qué consiste la defensa de la memoria de título?
 
-La defensa es una `presentación oral` de **20 minutos** en la que debe sintetizar introducción, desarrollo, resultados y conclusiones de su memoria de título. Para ello obviamente se ayudará de una PPT (slides). Su profesor(a) guía y comisión revisora le harán preguntas relacionadas con su memoria luego de la presentación. **La presentación se debe desarrollar con formalidad y profesionalismo**. A partir del primer semestre del 2022 las defensas volverán a ser de manera presencial.
+La defensa es una `presentación oral` de **20 minutos** en la que debe sintetizar introducción, desarrollo, resultados y conclusiones de su memoria de título. Para ello obviamente se ayudará de una PPT (slides). Su profesor(a) guía y comisión revisora le harán preguntas relacionadas con su memoria luego de la presentación. **La presentación se debe desarrollar con formalidad y profesionalismo**. La defensa es presencial en la universidad.
 
 &nbsp;    
 
