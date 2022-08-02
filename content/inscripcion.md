@@ -1,16 +1,16 @@
 +++
 title = "Inscripción de Asignaturas"
-date = "2022-03-05"
+date = "2022-08-01"
 author = "Sebastián Astroza"
 +++
 
-> Acá puede encontrar todo lo que necesita saber más recomendaciones para inscribir asignaturas del `primer semestre del 2022`. 
+> Acá puede encontrar todo lo que necesita saber más recomendaciones para inscribir asignaturas del `segundo semestre del 2022`. 
 
 &nbsp; 
 
 # ¿Cuándo es la inscripción de asignaturas?
 
-El inicio es el **lunes 7 de marzo** a partir de las 10:00 hrs y el término es el viernes 11 de marzo a las 23:59 hrs.
+El inicio es el **lunes 8 de agosto** a partir de las 10:00 hrs y el término es el viernes 12 de agosto a las 23:59 hrs.
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Sí. En su caso es bastante sencillo pues sólo **debe ingresar a la inscripció
 - Química General I (531140)
 - Desarrollo de Habilidades de Gestión (580120)
 
-Si alguna asignatura debería estar en su propuesta y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg). El sistema suele colapsar el primer día, pero usted no tiene para que caer en ese stress pues no tiene apuro. Espere al día siguiente para realizar su inscripción.
+Si alguna asignatura debería estar en su propuesta y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg). El sistema suele colapsar el primer día, pero usted no tiene para que caer en ese stress pues no tiene apuro. Espere algunas horas para realizar su inscripción.
 
 &nbsp; 
 
@@ -61,7 +61,7 @@ Si ya enviaron su `Inscripción WEB` y tienen **OTRA solicitud o desean una modi
 
 Con este formulario generaré una `fila virtual` y atenderé en orden las solicitudes. La atención de esta lista comenzará cuando se hayan podido procesar la mayoría de las Inscripciones WEB, **probablemente el miércoles 9 de marzo.** 
 
-**Ojo que el formulario está cerrado y se abirá el lunes 7 a las 10AM.**
+**Ojo que el formulario está cerrado y se abirá el lunes 8 a las 10AM.**
 
 &nbsp; 
 
