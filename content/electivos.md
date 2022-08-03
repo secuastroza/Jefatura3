@@ -76,7 +76,7 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Planificación de Transporte (?????) / 3 / Juan Antonio Carrasco / [Programa](/planificacion.pdf)**
+**Planificación de Transporte (554607) / 3 / Juan Antonio Carrasco / [Programa](/planificacion.pdf)**
 
 &nbsp;
 

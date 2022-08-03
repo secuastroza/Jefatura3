@@ -143,6 +143,8 @@ Si usted es estudiante de primer año, remítase por favor la respuesta que doy 
 
 Puede tomar asignaturas `complementarias` del semestre 8 en adelante. No tengo información sobre los complementarios. Son ustedes los encargados/as de conseguir `NOMBRE` y `CÓDIGO`. Lamentablemente no existe una fuente de información en la que se puedan ver todos los complementarios y por eso se le da la responsabilidad al estudiante que los busque. Cada vez que alguna división (o departamento) me envía información yo la comparto inmediatamente a toda la carrera, pero es lo único que me puedo comprometer a hacer. 
 
+Ojo que el semestre pasado aparecieron **por error** asignaturas de la carrera como complementarios. Por ejemplo, a estudiantes del plan nuevo les aparecieron todas las asignaturas del plan antiguo como complementarias. La regla para darse cuenta (y evitar tomar una asignatura que no podrán cursar) es que **no debe tomar ningún complementario cuyo código empiece por 580 o 546.**
+
 &nbsp; 
 
 # ¿Cómo saber los horarios de las asignaturas que se van a dictar?
@@ -192,7 +194,7 @@ Yo procesaré todas las inscripciones web en los primeros días (del 8 en adelan
 
 # ¿Cómo puedo inscribir el módulo 3 de Inglés?
 
-Quienes rindan este semestre (marzo 2022) el diagnóstico y se eximan de inglés 1 y 2, pueden tomar el 3 directamente este semestre sin necesidad de que se preinscriban. El código es `890052`. El resto de las personas que deseen cursar la asignatura, no deben inscribirla en la inscripción web y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/r/fhGfgnx93C) a partir del lunes 7 a las 10AM.
+Quienes acaban de aprobar (el primer semestre del 2022) Inglés 2 o quienes acaban (agosto 2022) de aprobarlo a través del diagnóstico, pueden tomar el 3 directamente este semestre sin necesidad de que se preinscriban. El código es `890052`. El resto de las personas que deseen cursar la asignatura, no deben inscribirla en la inscripción web y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/r/6cAVpKRPYk) a partir del lunes 8 a las 10AM.
 
 &nbsp;
 
@@ -202,5 +204,5 @@ Aprovecho de recordar:
 - Si usted desea iniciar la `Memoria de Título`, sí debe inscribirla por sistema WEB. Más instrucciones ya fueron enviadas a su correo y puede verlas [acá](/memoria).
 - Los jefes de carrera no ven temas relacionados con gratuidad, becas estatales ni préstamos. Consulte directamente a la División de Asistencia a los Estudiantes (DAFE) al correo dafe@udec.cl
 - Tampoco vemos temas relacionados con becas propias UdeC, ni beneficios Junaeb. Consulte directamente a la Dirección de Servicios Estudiantiles (DISE) al correo dise@udec.cl.
-- Por favor no inscriba la práctica en la inscripción web.
+- Por favor no inscriba la práctica en la inscripción WEB.
 
