@@ -192,6 +192,12 @@ Yo procesaré todas las inscripciones web en los primeros días (del 8 en adelan
 
 &nbsp;
 
+# ¿Colapsará el universo al coincidir la inscripción con el primer día de clases?
+
+[Habrá que tener paciencia](/memecatch22.jpg) pues efectivamente las clases comenzarán al mismo tiempo de la inscripción y, por más que los jefes de carrera tengan la mejor voluntad, **es imposible procesar todas las solicitudes de manera instantánea**. La recomendación es mirar en los horarios ([volver a esta sección](https://www.sastroza.cl/inscripcion/#c%C3%B3mo-saber-los-horarios-de-las-asignaturas-que-se-van-a-dictar) ) las salas de las asignaturas que usted cree que podrían resultar inscritas y acercarse a la sala de todas maneras. Puede ser a la sección que aparezca en su propuesta, pues es la que muy probablemente se le inscriba. Para los electivos, que no es poco común que queden sin cupos, lo mejor será esperar a que realmente se procese su inscripción. Los/as profesores/as saben de esta situación y les he solicitado paciencia también la primera semana.
+
+&nbsp;
+
 # ¿Cómo puedo inscribir el módulo 3 de Inglés?
 
 Quienes acaban de aprobar (el primer semestre del 2022) Inglés 2 o quienes acaban (agosto 2022) de aprobarlo a través del diagnóstico, pueden tomar el 3 directamente este semestre sin necesidad de que se preinscriban. El código es `890052`. El resto de las personas que deseen cursar la asignatura, no deben inscribirla en la inscripción web y tendrá que entrar a una lista de espera. Tiene que llenar [este formulario](https://forms.office.com/r/6cAVpKRPYk) a partir del lunes 8 a las 10AM.
