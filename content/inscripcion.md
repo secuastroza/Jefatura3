@@ -124,12 +124,13 @@ Tenga paciencia. Podrá solicitar modificar su inscripción al menos hasta el 19
 
 Las clases empiezan el 8 de agosto, pero tanto los y las estudiantes que hayan inscrito asignaturas, como quienes estén autorizados para inscribir y que tengan asignaturas propuestas, estarán habilitados/as para ingresar en las plataformas `Canvas` y `Teams`.
 
+[Habrá que tener paciencia](/memecatch22.jpg) pues efectivamente las clases comenzarán al mismo tiempo de la inscripción y, por más que los jefes de carrera tengan la mejor voluntad, **es imposible procesar todas las solicitudes de manera instantánea**. La recomendación es mirar en los horarios ([volver a esta sección](https://www.sastroza.cl/inscripcion/#c%C3%B3mo-saber-los-horarios-de-las-asignaturas-que-se-van-a-dictar) ) las salas de las asignaturas que usted cree que podrían resultar inscritas y acercarse a la sala de todas maneras. Puede ser a la sección que aparezca en su propuesta, pues es la que muy probablemente se le inscriba. Para los electivos, que no es poco común que queden sin cupos, lo mejor será esperar a que realmente se procese su inscripción. Los/as profesores/as saben de esta situación y les he solicitado paciencia también la primera semana.
 
 &nbsp; 
 
 # ¿Cuántos créditos puedo tomar?
 
-Puede tomar un **máximo de 22 créditos**.
+Puede tomar un **máximo de 22 créditos**. Además existe un mínimo de créditos para inscribir que es de 8.
 
 &nbsp; 
 
@@ -189,12 +190,6 @@ La idea es que sigamos todos el proceso descrito acá, donde debe seguir estos p
 - Si no está de acuerdo con mi respuesta al formulario, escribir a Alejandra Cohen para agendar una videollamada (dii_secdoc@udec.cl) en teams.
 
 Yo procesaré todas las inscripciones web en los primeros días (del 8 en adelante). Recién el miércoles 10 miraré el formulario. Y recién el viernes 12 se empezarán a atender personas por videollamada. **En ningún momento miraré solicitudes por correo**. [Les pido por favor sigan este instructivo y no me envien correos con solicitudes de inscripción](/dawson.jpg). El año pasado recibí cientos (a pesar de que les pedí que no lo hicieran), se saturó mi correo y dejé de ver correos muy importantes que no estaban relacionados con la inscripción. 
-
-&nbsp;
-
-# ¿Colapsará el universo al coincidir la inscripción con el primer día de clases?
-
-[Habrá que tener paciencia](/memecatch22.jpg) pues efectivamente las clases comenzarán al mismo tiempo de la inscripción y, por más que los jefes de carrera tengan la mejor voluntad, **es imposible procesar todas las solicitudes de manera instantánea**. La recomendación es mirar en los horarios ([volver a esta sección](https://www.sastroza.cl/inscripcion/#c%C3%B3mo-saber-los-horarios-de-las-asignaturas-que-se-van-a-dictar) ) las salas de las asignaturas que usted cree que podrían resultar inscritas y acercarse a la sala de todas maneras. Puede ser a la sección que aparezca en su propuesta, pues es la que muy probablemente se le inscriba. Para los electivos, que no es poco común que queden sin cupos, lo mejor será esperar a que realmente se procese su inscripción. Los/as profesores/as saben de esta situación y les he solicitado paciencia también la primera semana.
 
 &nbsp;
 
