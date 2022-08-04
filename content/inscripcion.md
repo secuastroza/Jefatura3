@@ -37,7 +37,7 @@ Sí. En su caso es bastante sencillo pues sólo **debe ingresar a la inscripció
 -  **Física II (510150)** (o Física I (510140) si es que no lo aprobó)
 -  **Álgebra II (525150)** (o Álgebra I (525140) si es que no lo aprobó)
 -  **Cálculo II (527150)** (o Cálculo I (527140) si es que no lo aprobó)
--  **Química General II (531150)** (o Química General I (531140) si es que no lo aprobó.
+-  **Química General II (531150)** (o Química General I (531140) si es que no lo aprobó)
 - **Introducción a la Innovación en Ingeniería (500151)**.
 
 Si alguna asignatura debería estar en su propuesta y no aparece, escríbame el detalle en el `ÁREA DE OBSERVACIONES` de la **inscripción web**. A veces ocurren errores en el sistema. Lo importante es que siempre hay solución, sólo les pido paciencia y seguir las instrucciones. Por cierto, **usted tiene asegurado su cupo en sus asignaturas**, [no hay razón para angustiarse](/squirtle.jpg). El sistema suele colapsar el primer día, pero usted no tiene para que caer en ese stress pues no tiene apuro. Espere algunas horas para realizar su inscripción.

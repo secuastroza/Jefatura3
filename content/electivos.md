@@ -68,10 +68,6 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
-**Machine Learning (580605) / 20 / Carlos Rey / [Programa](/ML.pdf)**
-
-&nbsp;
-
 **Marketing Industrial Relacional (580544) / 20 / Andrés Vidal / [Programa](/Marketing_ind_rel.pdf)**
 
 &nbsp;
