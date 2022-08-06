@@ -28,6 +28,14 @@ author = "Sebastián Astroza"
 
 &nbsp;
 
+**Data Science 1: Introducción a la ciencia de datos (503622) / 3 / Guillermo Cabrera / [Programa](/data1.pdf)**
+
+&nbsp;
+
+**Economía de Transporte (554604) / 3 / Alejandro Tudela / [Programa](/econ_tpte.pdf)**
+
+&nbsp;
+
 **Gestión de la Felicidad Laboral (546497) / 20 / Angela Zenteno / [Programa](/Gestion_Felicidad.pdf)**
 
 &nbsp;
