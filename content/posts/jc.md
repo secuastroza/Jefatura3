@@ -1,12 +1,12 @@
 +++
 title = "Bienvenid@ a mi oficina"
-date = "2022-06-29"
-author = "Sebastián Astroza"
+date = "2022-10-03"
+author = "José Oliveros"
 description = ""
 showFullContent = false
 +++
 
-¡Hola! Mi nombre es **Sebastián Astroza**. Soy el **jefe de carrera** del Departamento de Ingeniería Industrial ([DII](https://dii.udec.cl/)) de la Universidad de Concepción (UdeC).  Le invito a pasar a mi oficina y tomar asiento. 
+¡Hola! Mi nombre es **José Oliveros**. Soy el **jefe de carrera** del Departamento de Ingeniería Industrial ([DII](https://dii.udec.cl/)) de la Universidad de Concepción (UdeC).  Le invito a pasar a mi oficina y tomar asiento. 
 
 &nbsp;    
 
@@ -32,12 +32,12 @@ Si tiene dudas sobre la implementación del `nuevo plan de estudios` (para la ge
 
 Si desea saber cómo `suspender estudios` (congelar), `renunciar` a la carrera, `revalidar/convalidar` asignaturas, obtener `certificados` de título/grado, debe seguir el **[instructivo de Secretaría Académica de la Facultad](http://secad.ing.udec.cl/faq)**.
 
-Por último, nunca sobra tener a mano el **[calendario del semestre 2022-2](http://docentesenlinea.udec.cl/wp-content/uploads/2022/06/calendario-docencia-2.pdf)**, el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes, la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera si usted entró el 2020 o antes (las generaciones 2021 y 2022 tienen [acá su propia sección](/nuevamalla)) y un **[gif de baby yoda](https://giphy.com/search/baby-yoda)**.
+Por último, nunca sobra tener a mano el **[calendario del semestre 2022-2](http://docentesenlinea.udec.cl/wp-content/uploads/2022/06/calendario-docencia-2.pdf)**, el **[calendario](http://secad.ing.udec.cl/horarios)** de fechas importantes y la **[malla](https://dii.udec.cl/programa-academico/)** de nuestra carrera si usted entró el 2020 o antes (las generaciones 2021 y 2022 tienen [acá su propia sección](/nuevamalla)).
 
 &nbsp;    
 
 # ¿Lo que busca no está acá?
 
-Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a sastroza@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo UdeC. Si desea tener una `videollamada` (a través de TEAMS) conmigo, escríbale a Alejandra Cohen ( dii_secdoc@udec.cl ) para agendar.
+Le invito a `escribirme un correo electrónico` para que podamos conversar. Escríbame a joseoliveros@udec.cl con copia a Alejandra Cohen dii_secdoc@udec.cl , la secretaria de docencia del departamento. No olvide presentarse con su nombre completo (¡y número de matrícula!) y usar su correo UdeC. Si desea tener una `videollamada` (a través de TEAMS) conmigo, escríbale a Alejandra Cohen ( dii_secdoc@udec.cl ) para agendar.
 
-> Esta página se actualizó por última vez el **2 de agosto de 2022**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
+> Esta página se actualizó por última vez el **3 de octubre de 2022**. Recuerde estar atent@ a su correo UdeC y además visitar las redes sociales del departamento para recibir las últimas informaciones: [twitter](https://twitter.com/diiudec) | [instagram](https://www.instagram.com/dii_udec/) | [facebook](https://www.facebook.com/dii.udec/) 
