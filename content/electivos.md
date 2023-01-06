@@ -1,26 +1,14 @@
 +++
 title = "Electivos"
-date = "2022-08-01"
-author = "Sebastián Astroza"
+date = "2023-01-05"
+author = "Jefe de Carrera"
 +++
 
-> En esta sección se presentan los `electivos` para estudiantes de Ingeniería Civil Industrial para el **segundo semestre del 2022**. Recuerde que sólo puede tomar electivos desde el noveno semestre del plan de estudios. La información es preliminar y sólo de referencia. Una vez que empiecen las clases los/las profesores compartirán con usted el syllabus oficial de la asignatura. El formato en que se presenta la lista es **Nombre asignatura (código) / cupos / profesor(a) / Link al programa**. Además he puesto videos que algunos/as profesores/as me han hecho llegar.
+> En esta sección se presentan los `electivos` para estudiantes de Ingeniería Civil Industrial para el **primer semestre del 2023**. Recuerde que sólo puede tomar electivos desde el noveno semestre del plan de estudios. La información es preliminar y sólo de referencia. Una vez que empiecen las clases los/las profesores compartirán con usted el syllabus oficial de la asignatura. El formato en que se presenta la lista es **Nombre asignatura (código) / cupos / profesor(a) / Link al programa**. Además he puesto videos que algunos/as profesores/as me han hecho llegar.
 
 &nbsp;
 
-**Análisis y Tecnologías para la Gestión Empresarial (580606) / 20 / Omar Veloso /  [Programa](/atge.pdf)**
-
-{{< youtube NsD4MfNtAzU >}}
-
-&nbsp;
-
-**Aspectos legales de la empresa (805533) / ?? / Mario Pucheu / [Programa](/Aspectos_Legales.pdf)**
-
-&nbsp;
-
-**Cambio Climático y Gestión de Gases de Efecto Invernadero (580566) / 20 / Magdalena Jensen / [Programa](/Cambio_climatico.pdf)**
-
-{{< youtube PBmsUPJxeSE >}}
+**Cambio Climático y Sistemas Alimentarios (580612) / 20 / Magdalena Jensen / [Programa](/Cambio_climatico.pdf)**
 
 &nbsp;
 
