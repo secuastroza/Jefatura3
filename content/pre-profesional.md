@@ -1,6 +1,6 @@
 +++
 title = "Pre-profesional"
-date = "2022-10-03"
+date = "2023-11-06"
 author = "Sebastián Astroza"
 +++
 
@@ -15,6 +15,13 @@ La `Práctica Pre-Profesional` es una actividad requisito para titulación de nu
 # ¿Cuándo debo hacer la práctica?
 
 **A partir del octavo semestre de la carrera.** Se hace típicamente durante un verano, pero puede ser durante cualquier semestre. Ojo que es un requisito de titulación y **no podrá defender la memoria de título** si no la ha aprobado.
+
+&nbsp;    
+
+# ¿Cuántos créditos debo tener aprobados para poder realizar la práctica pre-profesional?
+
+Debe tener aprobados por lo menos 139 créditos al momento de pre-inscribir la práctica pre-profesional.
+
 
 &nbsp;    
 
@@ -87,7 +94,7 @@ Si su práctica es **presencial** la Universidad proveerá un `Seguro Escolar`, 
 En caso de que necesite el seguro para hacer una práctica presencial debe hacer las siguientes dos cosas:
 
 - Enviar a  dii_secdoc@udec.cl el **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica_pre-profesional.pdf)** (el mismo de prácticas en línea)
-- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. Si el formulario le pide profesor tutor, indique el nombre del coordinador de prácticas. En ese formulario se le pedirá rellenar información y que suba el **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas. 
+- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. Si el formulario le pide profesor tutor, indique el nombre del coordinador de prácticas. En ese formulario se le pedirá rellenar información y que haya realizado el curso **Principios UdeC para estudiantes: lineamientos éticos para la realización de actividades académicas externas**.  Si aún no ha inscrito en el curso, debe acceder en el **[siguiente enlace](https://udec.instructure.com/courses/48342)**.
 
 &nbsp; 
 

@@ -1,6 +1,6 @@
 +++
 title = "Laboral"
-date = "2022-10-03"
+date = "2023-11-06"
 author = "Sebastián Astroza"
 +++
 
@@ -15,6 +15,12 @@ La `Práctica Laboral` es una actividad requisito para titulación de nuestra ca
 # ¿Cuándo debo hacer la práctica?
 
 **A partir del quinto semestre de la carrera.** Se hace típicamente durante un verano (el que está entre el cuarto y quinto semestre), pero puede ser durante el semestre. Ojo que es un requisito de titulación y **no podrá defender la memoria de título** si no la ha aprobado junto a la posterior `práctica profesional`.
+
+&nbsp;    
+
+# ¿Cuántos créditos debo tener aprobados para poder realizar la práctica laboral?
+
+Debe tener aprobados por lo menos 65 créditos al momento de pre-inscribir la práctica laboral.
 
 &nbsp;    
 
@@ -72,7 +78,7 @@ Debe hacer dos cosas:
 
 # ¿Cómo se me evaluará?
 
-El Coordinador de Prácticas le asignará un(a) profesor(a) del departamento que servirá de `Tutor` y evaluará su práctica. En caso de evaluarla positivamente, se le inscribirá la asignatura como aprobada. **No necesita (ni debe) inscribir usted la asignatura por el sistema web de inscripción de asignaturas.**
+El Coordinador de Prácticas le asignará un(a) profesor(a) del departamento que servirá de `Tutor` y evaluará su práctica. En caso de evaluarla positivamente, se le inscribirá la asignatura como aprobada con una nota dada por **[esta rúbrica](/rubrica_laboral.pdf)**. **No necesita (ni debe) inscribir usted la asignatura por el sistema web de inscripción de asignaturas.**
 
 &nbsp;    
 
@@ -87,7 +93,7 @@ Si su práctica es **presencial** la Universidad proveerá un `Seguro Escolar`, 
 En caso de que necesite el seguro para hacer una práctica presencial debe hacer las siguientes dos cosas:
 
 - Enviar a  dii_secdoc@udec.cl el **[Formulario de Pre-inscripción de Práctica](/Formulario_pre_inscripcion_practica_laboral.pdf)** (el mismo de prácticas en línea)
-- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. Si el formulario le pide profesor tutor, indique el nombre del coordinador de prácticas. En ese formulario se le pedirá rellenar información y que suba el **Certificado del curso prevención COVID**.  Si aún no ha inscrito en el curso, debe responder **SÍ** en el **[siguiente enlace](https://forms.office.com/Pages/ResponsePage.aspx?id=nitYViSI0EmmZc0yjA4ASlhaY9CTTQ9PuyTTEwNHFJ9UOE1RMVJJUDFLNkpRWEtKM1lISU5NV0pVTy4u)**, realizar el curso en Canvas y luego obtener el certificado. El curso tiene una duración aproximada de 2 horas. 
+- Solicitar usted mismo/a el seguro a través de la intranet en la sección `solicitud autorización actividad externa`. Si el formulario le pide profesor tutor, indique el nombre del coordinador de prácticas. En ese formulario se le pedirá rellenar información y que haya realizado el curso **Principios UdeC para estudiantes: lineamientos éticos para la realización de actividades académicas externas**.  Si aún no ha inscrito en el curso, debe acceder en el **[siguiente enlace](https://udec.instructure.com/courses/48342)**.
 
 &nbsp; 
 
