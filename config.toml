@@ -65,39 +65,4 @@ paginate = 5
       logoHomeLink = "/posts/jc/"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "inscripcion"
-        name = "Inscripción"
-        url = "/inscripcion"
-      [[languages.en.menu.main]]
-        identifier = "elimina"
-        name = "Elimina"
-        url = "/elimina"
-      [[languages.en.menu.main]]
-        identifier = "memoria"
-        name = "Memoria"
-        url = "/memoria"
-      [[languages.en.menu.main]]
-        identifier = "practica"
-        name = "Práctica"
-        url = "/practica"
-      [[languages.en.menu.main]]
-        identifier = "ayuda"
-        name = "Ayuda"
-        url = "/ayuda"
-        [[languages.en.menu.main]]
-        identifier = "salud"
-        name = "Salud"
-        url = "/salud"
-        [[languages.en.menu.main]]
-        identifier = "becas"
-        name = "Becas"
-        url = "/becas"
-        [[languages.en.menu.main]]
-        identifier = "electivos"
-        name = "Electivos"
-        url = "/electivos"
-        [[languages.en.menu.main]]
-        identifier = "nuevamalla"
-        name = "Nuevo plan"
-        url = "/nuevamalla"
+      
