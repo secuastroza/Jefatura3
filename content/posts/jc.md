@@ -37,7 +37,9 @@ Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar cont
 Con afecto,**La Nueva Directiva de la Junta de Vigilancia del Barrio Agua de las Niñas.**
 
 **Rodrigo Bustos Rosati**, Presidente
+
 **Patricio Nuñez Casanova**, Secretario
+
 **Sebastián Astroza Tagle**, Tesorero
 
 > Esta página se actualizó por última vez el **5 de Enero de 2025**.
