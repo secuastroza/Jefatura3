@@ -1,8 +1,8 @@
 +++
-title = "Bienvenid@ a mi oficina"
-date = "2024-07-27"
-author = "José Oliveros"
-description = ""
+title = "Bienvenida al sitio web de la Junta de Vigilancia del Barrio Agua de las Niñas"
+date = "2025-01-05"
+author = "Directiva"
+description = "Lee le mensaje de bienvenida de la nueva directiva y la descripción de qué puedes encontrar en este sitio"
 showFullContent = false
 +++
 
