@@ -8,7 +8,7 @@ showFullContent = false
 
 Estimados vecinos y vecinas,
 
-Con gran entusiasmo les damos la bienvenida a nuestra nueva página web, un espacio creado especialmente para acercarnos como comunidad y fortalecer nuestro sistema de seguridad. Sabemos que el `barrio Agua de las Niñas` es un lugar especial, y queremos seguir trabajando juntos para mantenerlo seguro, tranquilo y unido. Llevamos más de 30 años cuidando lo que más importa- tú y tu familia- y necesitamos tu ayuda, hoy más que nunca, para seguir haciéndolo otros 30 años más.
+Con gran entusiasmo les damos la bienvenida a nuestra nueva página web, un espacio creado para acercarnos como comunidad y fortalecer nuestro sistema de seguridad. Sabemos que el `barrio Agua de las Niñas` es un lugar especial, y queremos seguir trabajando juntos para mantenerlo seguro, tranquilo y unido. La `Junta de Vigilancia` lleva más de 30 años cuidando lo que más importa- tú y tu familia- y necesitamos tu ayuda, hoy más que nunca, para seguir haciéndolo otros 30 años más.
 
 # ¿Qué encontrarás en nuestra página web?
 
@@ -31,6 +31,8 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 Somos una nueva directiva comprometida con renovar la `Junta de Vigilancia`. Sabemos que el sistema ha pasado por momentos difíciles, pero estamos convencidos de que, trabajando juntos, podemos superar estos desafíos y construir un futuro más seguro para todos.
 
 Te invitamos a explorar nuestra página, informarte y, sobre todo, **a unirte o renovar tu compromiso** con la `Junta de Vigilancia`. Cada aporte cuenta, y juntos hacemos de nuestro barrio un mejor lugar para vivir.
+
+[Click me](http://www.google.com){: .btn}
 
 Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar contigo!
 
