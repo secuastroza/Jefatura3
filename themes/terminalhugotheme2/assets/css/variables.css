@@ -2,7 +2,7 @@
   --accent: #df7020;
   --background: #fffbf7;
   --color: #45372b;
-  --border-color: rgba(255, 255, 255, .1);
+  --border-color: #fffbf7;
 
   /* variables for js, must be the same as these in @custom-media queries */
   --phoneWidth: (max-width: 684px);
