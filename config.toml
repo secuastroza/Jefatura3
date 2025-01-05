@@ -54,14 +54,14 @@ paginate = 5
     owner = ""
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    menuMore = "Mostrar más"
+    readMore = "Leer más"
+    readOtherPosts = "Leer otras publicaciones"
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "La oficina del Jefe de Carrera"
+      logoText = "Junta de Vigilancia Agua de las Niñas"
       logoHomeLink = "/posts/jc/"
 
     [languages.en.menu]

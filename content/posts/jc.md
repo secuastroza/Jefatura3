@@ -8,7 +8,7 @@ showFullContent = false
 
 Estimados vecinos y vecinas,
 
-Con gran entusiasmo les damos la bienvenida a nuestra nueva página web, un espacio creado especialmente para acercarnos como comunidad y fortalecer nuestro sistema de seguridad. Sabemos que el `barrio Agua de las Niñas` es un lugar especial, y queremos seguir trabajando juntos para mantenerlo seguro, tranquilo y unido. Llevamos más de 30 años cuidando lo que más importa (tú y tu familia) y necesitamos tu ayuda, hoy más que nunca, para seguir haciéndolo otros 30 años más.
+Con gran entusiasmo les damos la bienvenida a nuestra nueva página web, un espacio creado especialmente para acercarnos como comunidad y fortalecer nuestro sistema de seguridad. Sabemos que el `barrio Agua de las Niñas` es un lugar especial, y queremos seguir trabajando juntos para mantenerlo seguro, tranquilo y unido. Llevamos más de 30 años cuidando lo que más importa- tú y tu familia- y necesitamos tu ayuda, hoy más que nunca, para seguir haciéndolo otros 30 años más.
 
 # ¿Qué encontrarás en nuestra página web?
 
@@ -26,12 +26,16 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 
 # Renovemos la confianza, renovemos nuestro barrio
 
-Somos una nueva directiva comprometida con devolver la confianza a la `Junta de Vigilancia`. Sabemos que el sistema ha pasado por momentos difíciles, pero estamos convencidos de que, trabajando juntos, podemos superar estos desafíos y construir un futuro más seguro para todos.
+Somos una nueva directiva comprometida con renovar la `Junta de Vigilancia`. Sabemos que el sistema ha pasado por momentos difíciles, pero estamos convencidos de que, trabajando juntos, podemos superar estos desafíos y construir un futuro más seguro para todos.
 
 Te invitamos a explorar nuestra página, informarte y, sobre todo, a unirte o renovar tu compromiso con la `Junta de Vigilancia`. Cada aporte cuenta, y juntos hacemos de nuestro barrio un mejor lugar para vivir.
 
 Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar contigo!
 
 Con afecto,**La Nueva Directiva de la Junta de Vigilancia del Barrio Agua de las Niñas.**
+
+**Rodrigo Bustos Rosati**, Presidente
+**Patricio Nuñez Casanova**, Secretario
+**Sebastián Astroza Tagle**, Tesorero
 
 > Esta página se actualizó por última vez el **5 de Enero de 2025**.
