@@ -20,6 +20,8 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 
 - **Cómo funciona el sistema:** Aprende sobre las garitas, los turnos y las medidas que hemos implementado para proteger el barrio.
 
+- **Situación financiera:** Revisa de manera general los gastos e ingresos del sistema. 
+
 - **Proyectos a futuro:** Entérate de las iniciativas que estamos planeando para mejorar aún más la seguridad y calidad de vida en nuestra comunidad.
 
 - **Novedades y eventos:** Mantente al tanto de las reuniones, actividades y noticias relevantes para todos los vecinos.
@@ -28,7 +30,7 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 
 Somos una nueva directiva comprometida con renovar la `Junta de Vigilancia`. Sabemos que el sistema ha pasado por momentos difíciles, pero estamos convencidos de que, trabajando juntos, podemos superar estos desafíos y construir un futuro más seguro para todos.
 
-Te invitamos a explorar nuestra página, informarte y, sobre todo, a unirte o renovar tu compromiso con la `Junta de Vigilancia`. Cada aporte cuenta, y juntos hacemos de nuestro barrio un mejor lugar para vivir.
+Te invitamos a explorar nuestra página, informarte y, sobre todo, **a unirte o renovar tu compromiso** con la `Junta de Vigilancia`. Cada aporte cuenta, y juntos hacemos de nuestro barrio un mejor lugar para vivir.
 
 Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar contigo!
 
