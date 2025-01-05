@@ -32,7 +32,7 @@ Somos una nueva directiva comprometida con renovar la `Junta de Vigilancia`. Sab
 
 Te invitamos a explorar nuestra página, informarte y, sobre todo, **a unirte o renovar tu compromiso** con la `Junta de Vigilancia`. Cada aporte cuenta, y juntos hacemos de nuestro barrio un mejor lugar para vivir.
 
-[Click me](http://www.google.com){: .btn}
+<button>Button</button>
 
 Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar contigo!
 
