@@ -34,6 +34,8 @@ Te invitamos a explorar nuestra página, informarte y, sobre todo, **a unirte o 
 
 Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar contigo!
 
+&nbsp;
+
 Con afecto,**La Nueva Directiva de la Junta de Vigilancia del Barrio Agua de las Niñas.**
 
 **Rodrigo Bustos Rosati**, Presidente
