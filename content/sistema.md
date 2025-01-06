@@ -15,4 +15,4 @@ Uno de los lugares más clásicos de nuestra carrera es el `edificio de sistemas
 El sistema funciona de tal forma que todos los días del año tenemos un guardia de día (7AM a 7PM) y dos guardias de noche (7PM a 7AM). 
 
 
-{{< image src="/turnos.png" alt="Turnos guardias" position="center" style="border-radius: 8px;" >}}
+{{< image src="/turnos2.png" alt="Turnos guardias" position="center" style="border-radius: 8px;" >}}
