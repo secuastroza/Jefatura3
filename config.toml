@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 0
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -66,7 +66,12 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "Sistema"
+        identifier = "sistema"
         name = "Cómo funciona"
         url = "/sistema"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "guardias"
+        name = "Nuestros guardias"
+        url = "/guardias"
       
