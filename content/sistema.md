@@ -6,9 +6,11 @@ author = "Directiva"
 
 # ¿Cómo puedo interactuar con mis compañer@s de carrera?
 
-Uno de los lugares más clásicos de nuestra carrera es el `edificio de sistemas`, donde está la salita del centro de estudiantes, muchas salas de clases, una playstation, futón para dormir, etc. Las y los chic@s de **[CAAIND](https://linktr.ee/CAAIND_UdeC)** han habilitado una **versión virtual del edificio**. Es una plataforma virtual con salas abiertas con chat de texto, voz, video, juegos, música, etc.
+El área de funcionamiento de la `Junta de Vigilancia` está limitada por Sanders, Pedro de Valdivia, Inglesa y el cerro, y es *aproximadamente* la que se visualiza en la siguiente figura:
 
 {{< image src="/mapa.png" alt="Turnos guardias" position="center" style="border-radius: 8px;" >}}
+
+Se han simbolizado con un círculo las cuatro garitas que utilizan los guardias: Sanders/Sanhueza, Sanhueza/Inglesa, Inglesa/Prolongación Bianchi y Quinta Junge/Prolongación Bianchi, siendo esta última solamente utilizada por los guardias para asuntos de aseo, gracias a la gentil gestión de la `Junta de Vecinos` con Quinta Jungue.
 
 &nbsp; 
 

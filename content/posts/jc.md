@@ -16,7 +16,7 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 
 - **Beneficios de ser miembro:** Descubre por qué es tan importante formar parte de este esfuerzo comunitario y cómo tu participación hace una diferencia.
 
-- **Nuestros guardias:** Conoce al equipo de seguridad que nos cuida día a día, su labor y cómo puedes comunicarte con ellos.
+- **[Nuestros guardias:](/guardias)** Conoce al equipo de seguridad que nos cuida día a día, su labor y cómo puedes comunicarte con ellos.
 
 - **[Cómo funciona el sistema:](/sistema)** Aprende sobre las garitas, los turnos y las medidas que hemos implementado para proteger el barrio.
 
