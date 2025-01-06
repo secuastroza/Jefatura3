@@ -65,4 +65,8 @@ paginate = 5
       logoHomeLink = "/posts/jc/"
 
     [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "Sistema"
+        name = "Cómo funciona"
+        url = "/sistema"
       

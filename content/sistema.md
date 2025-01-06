@@ -1,14 +1,14 @@
 +++
-title = "Edificio de Sistemas (Virtual)"
-date = "2020-10-17"
-author = "Sebastián Astroza"
+title = "Cómo funciona el sistema"
+date = "2025-01-05"
+author = "Directiva"
 +++
 
 # ¿Cómo puedo interactuar con mis compañer@s de carrera?
 
 Uno de los lugares más clásicos de nuestra carrera es el `edificio de sistemas`, donde está la salita del centro de estudiantes, muchas salas de clases, una playstation, futón para dormir, etc. Las y los chic@s de **[CAAIND](https://linktr.ee/CAAIND_UdeC)** han habilitado una **versión virtual del edificio**. Es una plataforma virtual con salas abiertas con chat de texto, voz, video, juegos, música, etc.
 
-{{< image src="/discord2.jpg" alt="Spinning plates" position="center" style="border-radius: 8px;" >}}
+{{< image src="/turnos.jpg" alt="Spinning plates" position="center" style="border-radius: 8px;" >}}
 
 {{< image src="/discord1.jpg" alt="Spinning plates" position="center" style="border-radius: 8px;" >}}
 
