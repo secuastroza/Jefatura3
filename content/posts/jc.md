@@ -18,7 +18,7 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 
 - **Nuestros guardias:** Conoce al equipo de seguridad que nos cuida día a día, su labor y cómo puedes comunicarte con ellos.
 
-- **Cómo funciona el sistema:** Aprende sobre las garitas, los turnos y las medidas que hemos implementado para proteger el barrio.
+- **[Cómo funciona el sistema:](/sistema)** Aprende sobre las garitas, los turnos y las medidas que hemos implementado para proteger el barrio.
 
 - **Situación financiera:** Revisa de manera general los gastos e ingresos del sistema. 
 
