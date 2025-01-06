@@ -9,13 +9,13 @@ author = "Directiva"
 Varios de nuestros guardias llevan décadas trabajando en la `Junta de Vigilancia` y han sido de los principales pilares para que nuestro barrio sea percibido como seguro. Todos tienen mucha experiencia, conocen nuestras casas y nuestras familias, y reconocen a los sospechosos habituales.
 
 {{< image src="/unk.jpg" alt="Turnos guardias" position="center" style="border-radius: 8px;" title=" Jaime Peña (supervisor)">}}
-*<p style="text-align:center;">Jaime Peña (supervisor)</p>*
+*<p aling="center">Jaime Peña (supervisor)</p>*
 
 &nbsp; 
 
 {{< image src="/unk.jpg" alt="Turnos guardias" position="center" style="border-radius: 8px;" title=" Edison Jara">}}
 
-*<p style="text-align:center;">Edison Jara</p>*
+*<p aling="center;">Edison Jara</p>*
 
 &nbsp;    
 
