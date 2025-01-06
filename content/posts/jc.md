@@ -32,7 +32,7 @@ Somos una nueva directiva comprometida con renovar la `Junta de Vigilancia`. Sab
 
 Te invitamos a explorar nuestra página, informarte y, sobre todo, **a unirte o renovar tu compromiso** con la `Junta de Vigilancia`. Cada aporte cuenta, y juntos hacemos de nuestro barrio un mejor lugar para vivir.
 
-<button name="button">Click me</button>
+**[Hacer click acá si quieres ingresar a la Junta de Vigilancia (enviará mensaje de whatsapp al tesorero)](https://wa.me/56952053129?text=Quiero%20pertenecer%20a%20la%20Junta%20de%20Vigilancia)**
 
 Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar contigo!
 
