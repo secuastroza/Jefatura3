@@ -22,7 +22,7 @@ En este sitio podrás acceder a toda la información sobre nuestra `Junta de Vig
 
 - **Situación financiera:** Revisa de manera general los gastos e ingresos del sistema. 
 
-- **Proyectos a futuro:** Entérate de las iniciativas que estamos planeando para mejorar aún más la seguridad y calidad de vida en nuestra comunidad.
+- **Proyectos en curso y a futuro:** Entérate de las iniciativas que estamos planeando para mejorar aún más la seguridad y calidad de vida en nuestra comunidad.
 
 - **Novedades y eventos:** Mantente al tanto de las reuniones, actividades y noticias relevantes para todos los vecinos.
 
@@ -38,12 +38,12 @@ Gracias por confiar en nosotros. ¡Estamos aquí para escucharte y trabajar cont
 
 &nbsp;
 
-Con afecto,**La Nueva Directiva de la Junta de Vigilancia del Barrio Agua de las Niñas.**
+Con afecto,**la Directiva de la Junta de Vigilancia del Barrio Agua de las Niñas.**
 
 **Rodrigo Bustos Rosati**, Presidente
 
-**Patricio Nuñez Casanova**, Secretario
-
 **Sebastián Astroza Tagle**, Tesorero
 
-> Esta página se actualizó por última vez el **5 de Enero de 2025**.
+**Patricio Nuñez Casanova**, Secretario
+
+> Esta página se actualizó por última vez el **19 de Febrero de 2025**.
