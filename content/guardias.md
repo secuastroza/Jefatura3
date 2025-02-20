@@ -14,7 +14,7 @@ Varios de nuestros guardias llevan décadas trabajando en la `Junta de Vigilanci
 
 &nbsp; 
 
-{{< image src="/jaime_pena.jpg" alt="Turnos guardias" position="center" style="border-radius: 8px;" >}}
+{{< image src="/jaime_pena.png" alt="Turnos guardias" position="center" style="border-radius: 8px;" >}}
 
 *<p aling="justify">Edison Jara</p>*
 
